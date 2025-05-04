@@ -1,0 +1,377 @@
+[
+  {
+    "year": 1950,
+    "crashes": 13,
+    "fatalities": 0
+  },
+  {
+    "year": 1951,
+    "crashes": 9,
+    "fatalities": 0
+  },
+  {
+    "year": 1952,
+    "crashes": 5,
+    "fatalities": 1
+  },
+  {
+    "year": 1953,
+    "crashes": 13,
+    "fatalities": 2
+  },
+  {
+    "year": 1954,
+    "crashes": 13,
+    "fatalities": 1
+  },
+  {
+    "year": 1955,
+    "crashes": 13,
+    "fatalities": 3
+  },
+  {
+    "year": 1956,
+    "crashes": 15,
+    "fatalities": 0
+  },
+  {
+    "year": 1957,
+    "crashes": 15,
+    "fatalities": 2
+  },
+  {
+    "year": 1958,
+    "crashes": 24,
+    "fatalities": 4
+  },
+  {
+    "year": 1959,
+    "crashes": 16,
+    "fatalities": 2
+  },
+  {
+    "year": 1960,
+    "crashes": 14,
+    "fatalities": 3
+  },
+  {
+    "year": 1961,
+    "crashes": 12,
+    "fatalities": 3
+  },
+  {
+    "year": 1962,
+    "crashes": 16,
+    "fatalities": 2
+  },
+  {
+    "year": 1963,
+    "crashes": 15,
+    "fatalities": 0
+  },
+  {
+    "year": 1964,
+    "crashes": 9,
+    "fatalities": 1
+  },
+  {
+    "year": 1965,
+    "crashes": 4,
+    "fatalities": 0
+  },
+  {
+    "year": 1966,
+    "crashes": 13,
+    "fatalities": 1
+  },
+  {
+    "year": 1967,
+    "crashes": 6,
+    "fatalities": 2
+  },
+  {
+    "year": 1968,
+    "crashes": 21,
+    "fatalities": 1
+  },
+  {
+    "year": 1969,
+    "crashes": 11,
+    "fatalities": 1
+  },
+  {
+    "year": 1970,
+    "crashes": 11,
+    "fatalities": 3
+  },
+  {
+    "year": 1971,
+    "crashes": 20,
+    "fatalities": 1
+  },
+  {
+    "year": 1972,
+    "crashes": 22,
+    "fatalities": 0
+  },
+  {
+    "year": 1973,
+    "crashes": 38,
+    "fatalities": 2
+  },
+  {
+    "year": 1974,
+    "crashes": 34,
+    "fatalities": 2
+  },
+  {
+    "year": 1975,
+    "crashes": 54,
+    "fatalities": 1
+  },
+  {
+    "year": 1976,
+    "crashes": 50,
+    "fatalities": 0
+  },
+  {
+    "year": 1977,
+    "crashes": 63,
+    "fatalities": 2
+  },
+  {
+    "year": 1978,
+    "crashes": 49,
+    "fatalities": 1
+  },
+  {
+    "year": 1979,
+    "crashes": 36,
+    "fatalities": 0
+  },
+  {
+    "year": 1980,
+    "crashes": 31,
+    "fatalities": 1
+  },
+  {
+    "year": 1981,
+    "crashes": 48,
+    "fatalities": 0
+  },
+  {
+    "year": 1982,
+    "crashes": 42,
+    "fatalities": 2
+  },
+  {
+    "year": 1983,
+    "crashes": 21,
+    "fatalities": 0
+  },
+  {
+    "year": 1984,
+    "crashes": 28,
+    "fatalities": 0
+  },
+  {
+    "year": 1985,
+    "crashes": 37,
+    "fatalities": 0
+  },
+  {
+    "year": 1986,
+    "crashes": 31,
+    "fatalities": 1
+  },
+  {
+    "year": 1987,
+    "crashes": 28,
+    "fatalities": 0
+  },
+  {
+    "year": 1988,
+    "crashes": 17,
+    "fatalities": 0
+  },
+  {
+    "year": 1989,
+    "crashes": 32,
+    "fatalities": 0
+  },
+  {
+    "year": 1990,
+    "crashes": 31,
+    "fatalities": 0
+  },
+  {
+    "year": 1991,
+    "crashes": 16,
+    "fatalities": 0
+  },
+  {
+    "year": 1992,
+    "crashes": 28,
+    "fatalities": 0
+  },
+  {
+    "year": 1993,
+    "crashes": 40,
+    "fatalities": 0
+  },
+  {
+    "year": 1994,
+    "crashes": 49,
+    "fatalities": 2
+  },
+  {
+    "year": 1995,
+    "crashes": 29,
+    "fatalities": 0
+  },
+  {
+    "year": 1996,
+    "crashes": 33,
+    "fatalities": 0
+  },
+  {
+    "year": 1997,
+    "crashes": 29,
+    "fatalities": 0
+  },
+  {
+    "year": 1998,
+    "crashes": 26,
+    "fatalities": 0
+  },
+  {
+    "year": 1999,
+    "crashes": 16,
+    "fatalities": 0
+  },
+  {
+    "year": 2000,
+    "crashes": 30,
+    "fatalities": 1
+  },
+  {
+    "year": 2001,
+    "crashes": 25,
+    "fatalities": 0
+  },
+  {
+    "year": 2002,
+    "crashes": 25,
+    "fatalities": 1
+  },
+  {
+    "year": 2003,
+    "crashes": 23,
+    "fatalities": 0
+  },
+  {
+    "year": 2004,
+    "crashes": 28,
+    "fatalities": 0
+  },
+  {
+    "year": 2005,
+    "crashes": 25,
+    "fatalities": 0
+  },
+  {
+    "year": 2006,
+    "crashes": 41,
+    "fatalities": 0
+  },
+  {
+    "year": 2007,
+    "crashes": 34,
+    "fatalities": 0
+  },
+  {
+    "year": 2008,
+    "crashes": 40,
+    "fatalities": 0
+  },
+  {
+    "year": 2009,
+    "crashes": 29,
+    "fatalities": 0
+  },
+  {
+    "year": 2010,
+    "crashes": 42,
+    "fatalities": 0
+  },
+  {
+    "year": 2011,
+    "crashes": 30,
+    "fatalities": 0
+  },
+  {
+    "year": 2012,
+    "crashes": 44,
+    "fatalities": 0
+  },
+  {
+    "year": 2013,
+    "crashes": 23,
+    "fatalities": 0
+  },
+  {
+    "year": 2014,
+    "crashes": 24,
+    "fatalities": 2
+  },
+  {
+    "year": 2015,
+    "crashes": 20,
+    "fatalities": 1
+  },
+  {
+    "year": 2016,
+    "crashes": 26,
+    "fatalities": 0
+  },
+  {
+    "year": 2017,
+    "crashes": 34,
+    "fatalities": 1
+  },
+  {
+    "year": 2018,
+    "crashes": 31,
+    "fatalities": 0
+  },
+  {
+    "year": 2019,
+    "crashes": 23,
+    "fatalities": 0
+  },
+  {
+    "year": 2020,
+    "crashes": 23,
+    "fatalities": 0
+  },
+  {
+    "year": 2021,
+    "crashes": 29,
+    "fatalities": 0
+  },
+  {
+    "year": 2022,
+    "crashes": 30,
+    "fatalities": 0
+  },
+  {
+    "year": 2023,
+    "crashes": 31,
+    "fatalities": 0
+  },
+  {
+    "year": 2024,
+    "crashes": 23,
+    "fatalities": 0
+  }
+]

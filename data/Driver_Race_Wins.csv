@@ -1,0 +1,1129 @@
+,driverId,forename,surname,nationality,name,year,date,raceId,circuitId,laps,time,points,fastestLapTime,fastestLapSpeed,rank
+0,1,Lewis,Hamilton,British,Canadian Grand Prix,2007,2007-06-10,41,7,70,1:44:11.292,10.0,1:16.494,205.239,2
+1,1,Lewis,Hamilton,British,United States Grand Prix,2007,2007-06-17,42,19,73,1:31:09.965,10.0,1:13.222,206.101,2
+2,1,Lewis,Hamilton,British,Hungarian Grand Prix,2007,2007-08-05,46,11,70,1:35:52.991,10.0,1:20.171,196.724,2
+3,1,Lewis,Hamilton,British,Japanese Grand Prix,2007,2007-09-30,50,16,67,2:00:34.579,10.0,1:28.193,186.259,1
+4,1,Lewis,Hamilton,British,Australian Grand Prix,2008,2008-03-16,18,1,58,1:34:50.616,10.0,1:27.452,218.300,2
+5,1,Lewis,Hamilton,British,Monaco Grand Prix,2008,2008-05-25,23,6,76,2:00:42.742,10.0,1:18.510,153.152,6
+6,1,Lewis,Hamilton,British,British Grand Prix,2008,2008-07-06,26,9,60,1:39:09.440,10.0,1:32.817,199.398,3
+7,1,Lewis,Hamilton,British,German Grand Prix,2008,2008-07-20,27,10,67,1:31:20.874,10.0,1:16.039,216.552,2
+8,1,Lewis,Hamilton,British,Chinese Grand Prix,2008,2008-10-19,34,17,56,1:31:57.403,10.0,1:36.325,203.722,1
+9,1,Lewis,Hamilton,British,Hungarian Grand Prix,2009,2009-07-26,10,11,70,1:38:23.876,10.0,1:22.479,191.219,4
+10,1,Lewis,Hamilton,British,Singapore Grand Prix,2009,2009-09-27,14,15,61,1:56:06.337,10.0,1:48.345,168.561,2
+11,1,Lewis,Hamilton,British,Turkish Grand Prix,2010,2010-05-30,343,5,58,1:28:47.620,25.0,1:30.075,213.342,12
+12,1,Lewis,Hamilton,British,Canadian Grand Prix,2010,2010-06-13,344,7,70,1:33:53.456,25.0,1:17.806,201.778,2
+13,1,Lewis,Hamilton,British,Belgian Grand Prix,2010,2010-08-29,349,13,44,1:29:04.268,25.0,1:49.069,231.178,1
+14,1,Lewis,Hamilton,British,Chinese Grand Prix,2011,2011-04-17,843,17,56,1:36:58.226,25.0,1:40.415,195.424,2
+15,1,Lewis,Hamilton,British,German Grand Prix,2011,2011-07-24,850,20,60,1:37:30.334,25.0,1:34.302,196.526,1
+16,1,Lewis,Hamilton,British,Abu Dhabi Grand Prix,2011,2011-11-13,858,24,55,1:37:11.886,25.0,1:43.461,193.255,3
+17,1,Lewis,Hamilton,British,Canadian Grand Prix,2012,2012-06-10,866,7,70,1:32:29.586,25.0,1:17.020,203.837,6
+18,1,Lewis,Hamilton,British,Hungarian Grand Prix,2012,2012-07-29,870,11,69,1:41:05.503,25.0,1:25.677,184.082,4
+19,1,Lewis,Hamilton,British,Italian Grand Prix,2012,2012-09-09,872,14,53,1:19:41.221,25.0,1:28.427,235.841,5
+20,1,Lewis,Hamilton,British,United States Grand Prix,2012,2012-11-18,878,69,56,1:35:55.269,25.0,1:39.709,199.047,5
+21,1,Lewis,Hamilton,British,Hungarian Grand Prix,2013,2013-07-28,890,11,70,1:42:29.445,25.0,1:24.647,186.322,3
+22,1,Lewis,Hamilton,British,Malaysian Grand Prix,2014,2014-03-30,901,2,56,1:40:25.974,25.0,1:43.066,193.611,1
+23,1,Lewis,Hamilton,British,Bahrain Grand Prix,2014,2014-04-06,902,3,57,1:39:42.743,25.0,1:37.108,200.634,2
+24,1,Lewis,Hamilton,British,Chinese Grand Prix,2014,2014-04-20,903,17,54,1:33:28.338,25.0,1:41.196,193.916,2
+25,1,Lewis,Hamilton,British,Spanish Grand Prix,2014,2014-05-11,904,4,66,1:41:05.155,25.0,1:29.483,187.275,3
+26,1,Lewis,Hamilton,British,British Grand Prix,2014,2014-07-06,908,9,52,2:26:52.094,25.0,1:37.176,218.239,1
+27,1,Lewis,Hamilton,British,Italian Grand Prix,2014,2014-09-07,912,14,53,1:19:10.236,25.0,1:28.004,236.975,1
+28,1,Lewis,Hamilton,British,Singapore Grand Prix,2014,2014-09-21,913,15,60,2:00:04.795,25.0,1:50.417,165.137,1
+29,1,Lewis,Hamilton,British,Japanese Grand Prix,2014,2014-10-05,914,22,44,1:51:43.021,25.0,1:51.600,187.322,1
+30,1,Lewis,Hamilton,British,Russian Grand Prix,2014,2014-10-12,915,71,53,1:31:50.744,25.0,1:41.606,207.200,3
+31,1,Lewis,Hamilton,British,United States Grand Prix,2014,2014-11-02,916,69,56,1:40:04.785,25.0,1:41.929,194.712,4
+32,1,Lewis,Hamilton,British,Abu Dhabi Grand Prix,2014,2014-11-23,918,24,55,1:39:02.619,50.0,1:45.599,189.342,4
+33,1,Lewis,Hamilton,British,Australian Grand Prix,2015,2015-03-15,926,1,58,1:31:54.067,25.0,1:30.945,209.915,1
+34,1,Lewis,Hamilton,British,Chinese Grand Prix,2015,2015-04-12,928,17,56,1:39:42.008,25.0,1:42.208,191.996,1
+35,1,Lewis,Hamilton,British,Bahrain Grand Prix,2015,2015-04-19,929,3,57,1:35:05.809,25.0,1:37.857,199.098,5
+36,1,Lewis,Hamilton,British,Canadian Grand Prix,2015,2015-06-07,932,7,70,1:31:53.145,25.0,1:17.472,202.648,3
+37,1,Lewis,Hamilton,British,British Grand Prix,2015,2015-07-05,934,9,52,1:31:27.729,25.0,1:37.093,218.425,1
+38,1,Lewis,Hamilton,British,Belgian Grand Prix,2015,2015-08-23,937,13,43,1:23:40.387,25.0,1:52.504,224.120,2
+39,1,Lewis,Hamilton,British,Italian Grand Prix,2015,2015-09-06,938,14,53,1:18:00.688,25.0,1:26.672,240.617,1
+40,1,Lewis,Hamilton,British,Japanese Grand Prix,2015,2015-09-27,940,22,53,1:28:06.508,25.0,1:36.145,217.434,1
+41,1,Lewis,Hamilton,British,Russian Grand Prix,2015,2015-10-11,941,71,53,1:37:11.024,25.0,1:40.573,209.328,3
+42,1,Lewis,Hamilton,British,United States Grand Prix,2015,2015-10-25,942,69,56,1:50:52.703,25.0,1:40.738,197.014,2
+43,1,Lewis,Hamilton,British,Monaco Grand Prix,2016,2016-05-29,953,6,78,1:59:29.133,25.0,1:17.939,154.135,1
+44,1,Lewis,Hamilton,British,Canadian Grand Prix,2016,2016-06-12,954,7,70,1:31:05.296,25.0,1:15.981,206.625,2
+45,1,Lewis,Hamilton,British,Austrian Grand Prix,2016,2016-07-03,956,70,71,1:27:38.107,25.0,1:08.411,227.647,1
+46,1,Lewis,Hamilton,British,British Grand Prix,2016,2016-07-10,957,9,52,1:34:55.831,25.0,1:35.771,221.440,3
+47,1,Lewis,Hamilton,British,Hungarian Grand Prix,2016,2016-07-24,958,11,70,1:40:30.115,25.0,1:23.849,188.095,3
+48,1,Lewis,Hamilton,British,German Grand Prix,2016,2016-07-31,959,10,67,1:30:44.200,25.0,1:18.746,209.107,3
+49,1,Lewis,Hamilton,British,United States Grand Prix,2016,2016-10-23,965,69,56,1:38:12.618,25.0,1:42.386,193.842,4
+50,1,Lewis,Hamilton,British,Mexican Grand Prix,2016,2016-10-30,966,32,71,1:40:31.402,25.0,1:22.596,187.592,4
+51,1,Lewis,Hamilton,British,Brazilian Grand Prix,2016,2016-11-13,967,18,71,3:01:01.335,25.0,1:25.639,181.137,3
+52,1,Lewis,Hamilton,British,Abu Dhabi Grand Prix,2016,2016-11-27,968,24,55,1:38:04.013,25.0,1:45.137,190.174,5
+53,1,Lewis,Hamilton,British,Chinese Grand Prix,2017,2017-04-09,970,17,56,1:37:36.158,25.0,1:35.378,205.745,1
+54,1,Lewis,Hamilton,British,Spanish Grand Prix,2017,2017-05-14,973,4,66,1:35:56.497,25.0,1:23.593,200.471,1
+55,1,Lewis,Hamilton,British,Canadian Grand Prix,2017,2017-06-11,975,7,70,1:33:05.154,25.0,1:14.551,210.588,1
+56,1,Lewis,Hamilton,British,British Grand Prix,2017,2017-07-16,978,9,51,1:21:27.430,25.0,1:30.621,234.025,1
+57,1,Lewis,Hamilton,British,Belgian Grand Prix,2017,2017-08-27,980,13,44,1:24:42.820,25.0,1:46.603,236.526,2
+58,1,Lewis,Hamilton,British,Italian Grand Prix,2017,2017-09-03,981,14,53,1:15:32.312,25.0,1:23.488,249.793,2
+59,1,Lewis,Hamilton,British,Singapore Grand Prix,2017,2017-09-17,982,15,58,2:03:23.544,25.0,1:45.008,173.643,1
+60,1,Lewis,Hamilton,British,Japanese Grand Prix,2017,2017-10-08,984,22,53,1:27:31.194,25.0,1:33.780,222.917,6
+61,1,Lewis,Hamilton,British,United States Grand Prix,2017,2017-10-22,985,69,56,1:33:50.991,25.0,1:38.776,200.927,5
+62,1,Lewis,Hamilton,British,Azerbaijan Grand Prix,2018,2018-04-29,992,73,51,1:43:44.291,25.0,1:45.412,205.012,2
+63,1,Lewis,Hamilton,British,Spanish Grand Prix,2018,2018-05-13,993,4,66,1:35:29.972,25.0,1:19.133,211.770,3
+64,1,Lewis,Hamilton,British,French Grand Prix,2018,2018-06-24,996,34,53,1:30:11.385,25.0,1:34.509,222.531,5
+65,1,Lewis,Hamilton,British,German Grand Prix,2018,2018-07-22,999,10,67,1:32:29.845,25.0,1:15.545,217.968,1
+66,1,Lewis,Hamilton,British,Hungarian Grand Prix,2018,2018-07-29,1000,11,70,1:37:16.427,25.0,1:21.107,194.454,4
+67,1,Lewis,Hamilton,British,Italian Grand Prix,2018,2018-09-02,1002,14,53,1:16:54.484,25.0,1:22.497,252.794,1
+68,1,Lewis,Hamilton,British,Singapore Grand Prix,2018,2018-09-16,1003,15,61,1:51:11.611,25.0,1:42.913,177.108,2
+69,1,Lewis,Hamilton,British,Russian Grand Prix,2018,2018-09-30,1004,71,53,1:27:25.181,25.0,1:35.916,219.492,2
+70,1,Lewis,Hamilton,British,Japanese Grand Prix,2018,2018-10-07,1005,22,53,1:27:17.062,25.0,1:32.785,225.307,2
+71,1,Lewis,Hamilton,British,Brazilian Grand Prix,2018,2018-11-11,1008,18,71,1:27:09.066,25.0,1:11.795,216.065,7
+72,1,Lewis,Hamilton,British,Abu Dhabi Grand Prix,2018,2018-11-25,1009,24,55,1:39:40.382,25.0,1:41.357,197.267,5
+73,1,Lewis,Hamilton,British,Bahrain Grand Prix,2019,2019-03-31,1011,3,57,1:34:21.295,25.0,1:33.528,208.314,2
+74,1,Lewis,Hamilton,British,Chinese Grand Prix,2019,2019-04-14,1012,17,56,1:32:06.350,25.0,1:35.892,204.642,5
+75,1,Lewis,Hamilton,British,Spanish Grand Prix,2019,2019-05-12,1014,4,66,1:35:50.443,26.0,1:18.492,213.499,1
+76,1,Lewis,Hamilton,British,Monaco Grand Prix,2019,2019-05-26,1015,6,78,1:43:28.437,25.0,1:16.167,157.721,6
+77,1,Lewis,Hamilton,British,Canadian Grand Prix,2019,2019-06-09,1016,7,70,1:29:07.084,25.0,1:14.813,209.851,4
+78,1,Lewis,Hamilton,British,French Grand Prix,2019,2019-06-23,1017,34,53,1:24:31.198,25.0,1:32.764,226.717,2
+79,1,Lewis,Hamilton,British,British Grand Prix,2019,2019-07-14,1019,9,52,1:21:08.452,26.0,1:27.369,242.735,1
+80,1,Lewis,Hamilton,British,Hungarian Grand Prix,2019,2019-08-04,1021,11,70,1:35:03.796,25.0,1:18.528,200.840,2
+81,1,Lewis,Hamilton,British,Russian Grand Prix,2019,2019-09-29,1025,71,53,1:33:38.992,26.0,1:35.761,219.847,1
+82,1,Lewis,Hamilton,British,Mexican Grand Prix,2019,2019-10-27,1027,32,71,1:36:48.904,25.0,1:19.461,194.993,4
+83,1,Lewis,Hamilton,British,Abu Dhabi Grand Prix,2019,2019-12-01,1030,24,55,1:34:05.715,26.0,1:39.283,201.387,1
+84,1,Lewis,Hamilton,British,Styrian Grand Prix,2020,2020-07-12,1032,70,71,1:22:50.683,25.0,1:06.719,232.989,3
+85,1,Lewis,Hamilton,British,Hungarian Grand Prix,2020,2020-07-19,1033,11,70,1:36:12.473,26.0,1:16.627,205.823,1
+86,1,Lewis,Hamilton,British,British Grand Prix,2020,2020-08-02,1034,9,52,1:28:01.283,25.0,1:29.238,237.652,3
+87,1,Lewis,Hamilton,British,Spanish Grand Prix,2020,2020-08-16,1036,4,66,1:31:45.279,25.0,1:19.822,209.942,2
+88,1,Lewis,Hamilton,British,Belgian Grand Prix,2020,2020-08-30,1037,13,44,1:24:08.761,25.0,1:47.758,233.990,2
+89,1,Lewis,Hamilton,British,Tuscan Grand Prix,2020,2020-09-13,1039,76,59,2:19:35.060,26.0,1:18.833,239.518,1
+90,1,Lewis,Hamilton,British,Eifel Grand Prix,2020,2020-10-11,1041,20,60,1:35:49.641,25.0,1:28.145,210.253,2
+91,1,Lewis,Hamilton,British,Portuguese Grand Prix,2020,2020-10-25,1042,75,66,1:29:56.828,26.0,1:18.750,212.708,1
+92,1,Lewis,Hamilton,British,Emilia Romagna Grand Prix,2020,2020-11-01,1043,21,63,1:28:32.430,26.0,1:15.484,234.121,1
+93,1,Lewis,Hamilton,British,Turkish Grand Prix,2020,2020-11-15,1044,5,58,1:42:19.313,25.0,1:39.413,193.302,6
+94,1,Lewis,Hamilton,British,Bahrain Grand Prix,2020,2020-11-29,1045,3,57,2:59:47.515,25.0,1:32.864,209.803,3
+95,1,Lewis,Hamilton,British,Bahrain Grand Prix,2021,2021-03-28,1052,3,56,1:32:03.897,25.0,1:34.015,207.235,4
+96,1,Lewis,Hamilton,British,Portuguese Grand Prix,2021,2021-05-02,1054,75,66,1:34:31.421,25.0,1:20.933,206.971,4
+97,1,Lewis,Hamilton,British,Spanish Grand Prix,2021,2021-05-09,1055,4,66,1:33:07.680,25.0,1:20.665,208.640,5
+98,1,Lewis,Hamilton,British,British Grand Prix,2021,2021-07-18,1061,9,52,1:58:23.284,25.0,1:29.699,236.430,2
+99,1,Lewis,Hamilton,British,Russian Grand Prix,2021,2021-09-26,1066,71,53,1:30:41.001,25.0,1:37.575,215.760,2
+100,1,Lewis,Hamilton,British,São Paulo Grand Prix,2021,2021-11-14,1071,18,71,1:32:22.851,25.0,1:11.982,215.503,2
+101,1,Lewis,Hamilton,British,Qatar Grand Prix,2021,2021-11-21,1051,78,57,1:24:28.471,25.0,1:25.084,227.633,2
+102,1,Lewis,Hamilton,British,Saudi Arabian Grand Prix,2021,2021-12-05,1072,77,50,2:06:15.118,26.0,1:30.734,244.962,1
+103,1,Lewis,Hamilton,British,British Grand Prix,2024,2024-07-07,1132,9,52,1:22:27.059,25.0,1:29.438,237.120,5
+104,1,Lewis,Hamilton,British,Belgian Grand Prix,2024,2024-07-28,1134,13,44,+0.526,25.0,1:46.653,236.415,6
+105,3,Nico,Rosberg,German,Chinese Grand Prix,2012,2012-04-15,862,17,56,1:36:26.929,25.0,1:40.967,194.356,8
+106,3,Nico,Rosberg,German,Monaco Grand Prix,2013,2013-05-26,885,6,78,2:17:52.056,25.0,1:18.327,153.510,6
+107,3,Nico,Rosberg,German,British Grand Prix,2013,2013-06-30,887,9,52,1:32:59.456,25.0,1:33.531,226.744,2
+108,3,Nico,Rosberg,German,Australian Grand Prix,2014,2014-03-16,900,1,57,1:32:58.710,25.0,1:32.478,206.436,1
+109,3,Nico,Rosberg,German,Monaco Grand Prix,2014,2014-05-25,905,6,78,1:49:27.661,25.0,1:19.425,151.388,4
+110,3,Nico,Rosberg,German,Austrian Grand Prix,2014,2014-06-22,907,70,71,1:27:54.976,25.0,1:12.598,214.518,6
+111,3,Nico,Rosberg,German,German Grand Prix,2014,2014-07-20,909,10,67,1:33:42.914,25.0,1:21.298,202.543,6
+112,3,Nico,Rosberg,German,Brazilian Grand Prix,2014,2014-11-09,917,18,71,1:30:02.555,25.0,1:13.619,210.711,2
+113,3,Nico,Rosberg,German,Spanish Grand Prix,2015,2015-05-10,930,4,66,1:41:12.555,25.0,1:29.109,188.061,2
+114,3,Nico,Rosberg,German,Monaco Grand Prix,2015,2015-05-24,931,6,78,1:49:18.420,25.0,1:18.599,152.841,2
+115,3,Nico,Rosberg,German,Austrian Grand Prix,2015,2015-06-21,933,70,71,1:30:16.930,25.0,1:11.235,218.622,1
+116,3,Nico,Rosberg,German,Mexican Grand Prix,2015,2015-11-01,943,32,71,1:42:35.038,25.0,1:20.521,192.426,1
+117,3,Nico,Rosberg,German,Brazilian Grand Prix,2015,2015-11-15,944,18,71,1:31:09.090,25.0,1:14.957,206.950,2
+118,3,Nico,Rosberg,German,Abu Dhabi Grand Prix,2015,2015-11-29,945,24,55,1:38:30.175,25.0,1:45.356,189.779,5
+119,3,Nico,Rosberg,German,Australian Grand Prix,2016,2016-03-20,948,1,57,1:48:15.565,25.0,1:30.557,210.815,3
+120,3,Nico,Rosberg,German,Bahrain Grand Prix,2016,2016-04-03,949,3,57,1:33:34.696,25.0,1:34.482,206.210,1
+121,3,Nico,Rosberg,German,Chinese Grand Prix,2016,2016-04-17,950,17,56,1:38:53.891,25.0,1:40.418,195.419,6
+122,3,Nico,Rosberg,German,Russian Grand Prix,2016,2016-05-01,951,71,53,1:32:41.997,25.0,1:39.094,212.452,1
+123,3,Nico,Rosberg,German,European Grand Prix,2016,2016-06-19,955,73,51,1:32:52.366,25.0,1:46.485,202.946,1
+124,3,Nico,Rosberg,German,Belgian Grand Prix,2016,2016-08-28,960,13,44,1:44:51.058,25.0,1:51.746,225.640,2
+125,3,Nico,Rosberg,German,Italian Grand Prix,2016,2016-09-04,961,14,53,1:17:28.089,25.0,1:26.599,240.820,9
+126,3,Nico,Rosberg,German,Singapore Grand Prix,2016,2016-09-18,962,15,61,1:55:48.950,25.0,1:50.296,165.318,6
+127,3,Nico,Rosberg,German,Japanese Grand Prix,2016,2016-10-09,964,22,53,1:26:43.333,25.0,1:36.049,217.651,5
+128,4,Fernando,Alonso,Spanish,Hungarian Grand Prix,2003,2003-08-24,120,11,70,1:39:01.460,10.0,\N,\N,\N
+129,4,Fernando,Alonso,Spanish,Malaysian Grand Prix,2005,2005-03-20,72,2,56,1:31:33.736,10.0,1:35.899,208.081,4
+130,4,Fernando,Alonso,Spanish,Bahrain Grand Prix,2005,2005-04-03,73,3,57,1:29:18.531,10.0,1:31.713,212.436,2
+131,4,Fernando,Alonso,Spanish,San Marino Grand Prix,2005,2005-04-24,74,21,62,1:27:41.921,10.0,1:23.133,213.619,4
+132,4,Fernando,Alonso,Spanish,European Grand Prix,2005,2005-05-29,77,20,59,1:31:46.648,10.0,1:30.711,204.305,1
+133,4,Fernando,Alonso,Spanish,French Grand Prix,2005,2005-07-03,80,8,70,1:31:22.232,10.0,1:16.502,207.571,2
+134,4,Fernando,Alonso,Spanish,German Grand Prix,2005,2005-07-24,82,10,67,1:26:28.599,10.0,1:15.235,218.866,2
+135,4,Fernando,Alonso,Spanish,Chinese Grand Prix,2005,2005-10-16,89,17,56,1:39:53.618,10.0,1:33.536,209.797,2
+136,4,Fernando,Alonso,Spanish,Bahrain Grand Prix,2006,2006-03-12,53,3,57,1:29:46.205,10.0,1:32.534,210.551,3
+137,4,Fernando,Alonso,Spanish,Australian Grand Prix,2006,2006-04-02,55,1,57,1:34:27.870,10.0,1:26.189,221.499,2
+138,4,Fernando,Alonso,Spanish,Spanish Grand Prix,2006,2006-05-14,58,4,66,1:26:21.759,10.0,1:16.723,217.108,2
+139,4,Fernando,Alonso,Spanish,Monaco Grand Prix,2006,2006-05-28,59,6,78,1:43:43.116,10.0,1:15.671,158.898,3
+140,4,Fernando,Alonso,Spanish,British Grand Prix,2006,2006-06-11,60,9,60,1:25:51.927,10.0,1:21.599,226.811,1
+141,4,Fernando,Alonso,Spanish,Canadian Grand Prix,2006,2006-06-25,61,7,70,1:34:37.308,10.0,1:15.911,206.815,2
+142,4,Fernando,Alonso,Spanish,Japanese Grand Prix,2006,2006-10-08,69,22,53,1:23:52.413,10.0,1:32.676,225.572,1
+143,4,Fernando,Alonso,Spanish,Malaysian Grand Prix,2007,2007-04-08,37,2,56,1:32:14.930,10.0,1:36.861,206.014,2
+144,4,Fernando,Alonso,Spanish,Monaco Grand Prix,2007,2007-05-27,40,6,78,1:40:29.329,10.0,1:15.284,159.715,1
+145,4,Fernando,Alonso,Spanish,European Grand Prix,2007,2007-07-22,45,20,60,2:06:26.358,10.0,1:33.231,198.783,2
+146,4,Fernando,Alonso,Spanish,Italian Grand Prix,2007,2007-09-09,48,14,53,1:18:37.806,10.0,1:22.871,251.653,1
+147,4,Fernando,Alonso,Spanish,Singapore Grand Prix,2008,2008-09-28,32,15,61,1:57:16.304,10.0,1:45.768,172.464,3
+148,4,Fernando,Alonso,Spanish,Japanese Grand Prix,2008,2008-10-12,33,16,67,1:30:21.892,10.0,1:19.101,207.668,3
+149,4,Fernando,Alonso,Spanish,Bahrain Grand Prix,2010,2010-03-14,337,3,49,1:39:20.396,25.0,1:58.287,191.706,1
+150,4,Fernando,Alonso,Spanish,German Grand Prix,2010,2010-07-25,347,10,67,1:27:38.864,25.0,1:15.880,217.005,2
+151,4,Fernando,Alonso,Spanish,Italian Grand Prix,2010,2010-09-12,350,14,53,1:16:24.572,25.0,1:24.139,247.861,1
+152,4,Fernando,Alonso,Spanish,Singapore Grand Prix,2010,2010-09-26,351,15,61,1:57:53.579,25.0,1:47.976,169.137,1
+153,4,Fernando,Alonso,Spanish,Korean Grand Prix,2010,2010-10-24,353,35,55,2:48:20.810,25.0,1:50.257,183.335,1
+154,4,Fernando,Alonso,Spanish,British Grand Prix,2011,2011-07-10,849,9,52,1:28:41.196,25.0,1:34.908,223.454,1
+155,4,Fernando,Alonso,Spanish,Malaysian Grand Prix,2012,2012-03-25,861,2,56,2:44:51.812,25.0,1:41.680,196.250,7
+156,4,Fernando,Alonso,Spanish,European Grand Prix,2012,2012-06-24,867,12,57,1:44:16.649,25.0,1:43.666,188.185,5
+157,4,Fernando,Alonso,Spanish,German Grand Prix,2012,2012-07-22,869,10,67,1:31:05.862,25.0,1:19.044,208.319,2
+158,4,Fernando,Alonso,Spanish,Chinese Grand Prix,2013,2013-04-14,882,17,56,1:36:26.945,25.0,1:39.506,197.210,4
+159,4,Fernando,Alonso,Spanish,Spanish Grand Prix,2013,2013-05-12,884,4,66,1:39:16.596,25.0,1:26.681,193.329,5
+160,5,Heikki,Kovalainen,Finnish,Hungarian Grand Prix,2008,2008-08-03,28,11,70,1:37:27.067,10.0,1:21.753,192.917,7
+161,8,Kimi,Räikkönen,Finnish,Malaysian Grand Prix,2003,2003-03-23,109,2,56,1:32:22.195,10.0,\N,\N,\N
+162,8,Kimi,Räikkönen,Finnish,Belgian Grand Prix,2004,2004-08-29,103,13,44,1:32:35.274,10.0,1:45.108,238.931,1
+163,8,Kimi,Räikkönen,Finnish,Spanish Grand Prix,2005,2005-05-08,75,4,66,1:27:16.830,10.0,1:15.977,219.240,4
+164,8,Kimi,Räikkönen,Finnish,Monaco Grand Prix,2005,2005-05-22,76,6,78,1:45:15.556,10.0,1:15.921,158.375,2
+165,8,Kimi,Räikkönen,Finnish,Canadian Grand Prix,2005,2005-06-12,78,7,70,1:32:09.290,10.0,1:14.384,211.061,1
+166,8,Kimi,Räikkönen,Finnish,Hungarian Grand Prix,2005,2005-07-31,83,11,70,1:37:25.552,10.0,1:21.219,194.186,1
+167,8,Kimi,Räikkönen,Finnish,Turkish Grand Prix,2005,2005-08-21,84,5,58,1:24:34.454,10.0,1:25.030,226.000,2
+168,8,Kimi,Räikkönen,Finnish,Belgian Grand Prix,2005,2005-09-11,86,13,44,1:30:01.295,10.0,1:53.810,220.662,6
+169,8,Kimi,Räikkönen,Finnish,Japanese Grand Prix,2005,2005-10-09,88,22,53,1:29:02.212,10.0,1:31.540,228.372,1
+170,8,Kimi,Räikkönen,Finnish,Australian Grand Prix,2007,2007-03-18,36,1,58,1:25:28.770,10.0,1:25.235,223.978,1
+171,8,Kimi,Räikkönen,Finnish,French Grand Prix,2007,2007-07-01,43,8,70,1:30:54.200,10.0,1:16.207,208.374,2
+172,8,Kimi,Räikkönen,Finnish,British Grand Prix,2007,2007-07-08,44,9,59,1:21:43.074,10.0,1:20.638,229.514,1
+173,8,Kimi,Räikkönen,Finnish,Belgian Grand Prix,2007,2007-09-16,49,13,44,1:20:39.066,10.0,1:48.095,233.261,2
+174,8,Kimi,Räikkönen,Finnish,Chinese Grand Prix,2007,2007-10-07,51,17,56,1:37:58.395,10.0,1:38.285,199.660,3
+175,8,Kimi,Räikkönen,Finnish,Brazilian Grand Prix,2007,2007-10-21,52,18,71,1:28:15.270,10.0,1:12.445,214.126,1
+176,8,Kimi,Räikkönen,Finnish,Malaysian Grand Prix,2008,2008-03-23,19,2,56,1:31:18.555,10.0,1:35.405,209.158,2
+177,8,Kimi,Räikkönen,Finnish,Spanish Grand Prix,2008,2008-04-27,21,4,66,1:38:19.051,10.0,1:21.670,205.191,1
+178,8,Kimi,Räikkönen,Finnish,Belgian Grand Prix,2009,2009-08-30,12,13,44,1:23:50.995,10.0,1:47.674,234.173,4
+179,8,Kimi,Räikkönen,Finnish,Abu Dhabi Grand Prix,2012,2012-11-04,877,24,55,1:45:58.667,25.0,1:44.458,191.410,3
+180,8,Kimi,Räikkönen,Finnish,Australian Grand Prix,2013,2013-03-17,880,1,58,1:30:03.225,25.0,1:29.274,213.845,1
+181,8,Kimi,Räikkönen,Finnish,United States Grand Prix,2018,2018-10-21,1006,69,56,1:34:18.643,25.0,1:38.482,201.527,5
+182,9,Robert,Kubica,Polish,Canadian Grand Prix,2008,2008-06-08,24,7,70,1:36:24.227,10.0,1:17.539,202.473,4
+183,13,Felipe,Massa,Brazilian,Turkish Grand Prix,2006,2006-08-27,66,5,58,1:28:51.082,10.0,1:28.123,218.067,2
+184,13,Felipe,Massa,Brazilian,Brazilian Grand Prix,2006,2006-10-22,70,18,71,1:31:53.751,10.0,1:12.877,212.857,2
+185,13,Felipe,Massa,Brazilian,Bahrain Grand Prix,2007,2007-04-15,38,3,57,1:33:27.515,10.0,1:34.067,207.120,1
+186,13,Felipe,Massa,Brazilian,Spanish Grand Prix,2007,2007-05-13,39,4,65,1:31:36.230,10.0,1:22.680,202.685,1
+187,13,Felipe,Massa,Brazilian,Turkish Grand Prix,2007,2007-08-26,47,5,58,1:26:42.161,10.0,1:27.922,218.566,2
+188,13,Felipe,Massa,Brazilian,Bahrain Grand Prix,2008,2008-04-06,20,3,57,1:31:06.970,10.0,1:33.600,208.153,3
+189,13,Felipe,Massa,Brazilian,Turkish Grand Prix,2008,2008-05-11,22,5,58,1:26:49.451,10.0,1:26.666,221.734,3
+190,13,Felipe,Massa,Brazilian,French Grand Prix,2008,2008-06-22,25,8,70,1:31:50.245,10.0,1:16.729,206.956,2
+191,13,Felipe,Massa,Brazilian,European Grand Prix,2008,2008-08-24,29,12,57,1:35:32.339,10.0,1:38.708,197.637,1
+192,13,Felipe,Massa,Brazilian,Belgian Grand Prix,2008,2008-09-07,30,13,44,1:22:59.394,10.0,1:48.222,232.987,3
+193,13,Felipe,Massa,Brazilian,Brazilian Grand Prix,2008,2008-11-02,35,18,71,1:34:11.435,10.0,1:13.736,210.377,1
+194,14,David,Coulthard,British,Portuguese Grand Prix,1995,1995-09-24,252,27,71,1:41:52.145,10.0,\N,\N,\N
+195,14,David,Coulthard,British,Australian Grand Prix,1997,1997-03-09,207,1,58,1:30:28.718,10.0,\N,\N,\N
+196,14,David,Coulthard,British,Italian Grand Prix,1997,1997-09-07,219,14,53,1:17:04.609,10.0,\N,\N,\N
+197,14,David,Coulthard,British,San Marino Grand Prix,1998,1998-04-26,194,21,62,1:34:25.4,10.0,\N,\N,\N
+198,14,David,Coulthard,British,British Grand Prix,1999,1999-07-11,182,9,60,1:32:30.144,10.0,\N,\N,\N
+199,14,David,Coulthard,British,Belgian Grand Prix,1999,1999-08-29,186,13,44,1:25:43.057,10.0,\N,\N,\N
+200,14,David,Coulthard,British,British Grand Prix,2000,2000-04-23,161,9,60,1:28:50.108,10.0,\N,\N,\N
+201,14,David,Coulthard,British,Monaco Grand Prix,2000,2000-06-04,164,6,78,1:49:28.213,10.0,\N,\N,\N
+202,14,David,Coulthard,British,French Grand Prix,2000,2000-07-02,166,8,72,1:38:05.538,10.0,\N,\N,\N
+203,14,David,Coulthard,British,Brazilian Grand Prix,2001,2001-04-01,143,18,71,1:39:00.834,10.0,\N,\N,\N
+204,14,David,Coulthard,British,Austrian Grand Prix,2001,2001-05-13,146,70,71,1:27:45.927,10.0,\N,\N,\N
+205,14,David,Coulthard,British,Monaco Grand Prix,2002,2002-05-26,130,6,78,1:45:39.055,10.0,\N,\N,\N
+206,14,David,Coulthard,British,Australian Grand Prix,2003,2003-03-09,108,1,58,1:34:42.1,10.0,\N,\N,\N
+207,15,Jarno,Trulli,Italian,Monaco Grand Prix,2004,2004-05-23,95,6,77,1:45:46.601,10.0,1:14.870,160.598,2
+208,17,Mark,Webber,Australian,German Grand Prix,2009,2009-07-12,9,20,60,1:36:43.310,10.0,1:34.003,197.151,3
+209,17,Mark,Webber,Australian,Brazilian Grand Prix,2009,2009-10-18,16,18,71,1:32:23.081,10.0,1:13.733,210.386,1
+210,17,Mark,Webber,Australian,Spanish Grand Prix,2010,2010-05-09,341,4,66,1:35:44.101,25.0,1:24.828,197.552,2
+211,17,Mark,Webber,Australian,Monaco Grand Prix,2010,2010-05-16,342,6,78,1:50:13.355,25.0,1:15.318,159.643,2
+212,17,Mark,Webber,Australian,British Grand Prix,2010,2010-07-11,346,9,52,1:24:38.200,25.0,1:32.364,229.608,4
+213,17,Mark,Webber,Australian,Hungarian Grand Prix,2010,2010-08-01,348,11,70,1:41:05.571,25.0,1:22.651,190.821,2
+214,17,Mark,Webber,Australian,Brazilian Grand Prix,2011,2011-11-27,859,18,71,1:32:17.464,25.0,1:15.324,205.942,1
+215,17,Mark,Webber,Australian,Monaco Grand Prix,2012,2012-05-27,865,6,78,1:46:06.557,25.0,1:18.805,152.579,3
+216,17,Mark,Webber,Australian,British Grand Prix,2012,2012-07-08,868,9,52,1:25:11.288,25.0,1:34.934,223.393,4
+217,18,Jenson,Button,British,Hungarian Grand Prix,2006,2006-08-06,65,11,70,1:52:20.941,10.0,1:25.143,185.236,4
+218,18,Jenson,Button,British,Australian Grand Prix,2009,2009-03-29,1,1,58,1:34:15.784,10.0,1:28.020,216.891,3
+219,18,Jenson,Button,British,Malaysian Grand Prix,2009,2009-04-05,2,2,31,1:10:52.092,5.0,1:36.641,206.483,1
+220,18,Jenson,Button,British,Bahrain Grand Prix,2009,2009-04-26,4,3,57,1:31:48.182,10.0,1:34.588,205.979,3
+221,18,Jenson,Button,British,Spanish Grand Prix,2009,2009-05-10,5,4,66,1:37:19.202,10.0,1:22.899,202.149,2
+222,18,Jenson,Button,British,Monaco Grand Prix,2009,2009-05-24,6,6,78,1:40:44.282,10.0,1:15.190,159.914,2
+223,18,Jenson,Button,British,Turkish Grand Prix,2009,2009-06-07,7,5,58,1:26:24.848,10.0,1:27.579,219.422,1
+224,18,Jenson,Button,British,Australian Grand Prix,2010,2010-03-28,338,1,58,1:33:36.531,25.0,1:29.291,213.804,6
+225,18,Jenson,Button,British,Chinese Grand Prix,2010,2010-04-18,340,17,56,1:46:42.163,25.0,1:42.886,190.731,4
+226,18,Jenson,Button,British,Canadian Grand Prix,2011,2011-06-12,847,7,70,4:04:39.537,25.0,1:16.956,204.007,1
+227,18,Jenson,Button,British,Hungarian Grand Prix,2011,2011-07-31,851,11,70,1:46:42.337,25.0,1:23.937,187.898,6
+228,18,Jenson,Button,British,Japanese Grand Prix,2011,2011-10-09,855,22,53,1:30:53.427,25.0,1:36.568,216.481,1
+229,18,Jenson,Button,British,Australian Grand Prix,2012,2012-03-18,860,1,58,1:34:09.565,25.0,1:29.187,214.053,1
+230,18,Jenson,Button,British,Belgian Grand Prix,2012,2012-09-02,871,13,44,1:29:08.530,25.0,1:54.293,220.611,10
+231,18,Jenson,Button,British,Brazilian Grand Prix,2012,2012-11-25,879,18,71,1:45:22.656,25.0,1:18.108,198.601,2
+232,20,Sebastian,Vettel,German,Italian Grand Prix,2008,2008-09-14,31,14,53,1:26:47.494,10.0,1:30.510,230.414,14
+233,20,Sebastian,Vettel,German,Chinese Grand Prix,2009,2009-04-19,3,17,56,1:57:43.485,10.0,1:52.627,174.235,2
+234,20,Sebastian,Vettel,German,British Grand Prix,2009,2009-06-21,8,9,60,1:22:49.328,10.0,1:20.735,229.238,1
+235,20,Sebastian,Vettel,German,Japanese Grand Prix,2009,2009-10-04,15,22,53,1:28:20.443,10.0,1:32.572,225.826,2
+236,20,Sebastian,Vettel,German,Abu Dhabi Grand Prix,2009,2009-11-01,17,24,55,1:34:03.414,10.0,1:40.279,199.387,1
+237,20,Sebastian,Vettel,German,Malaysian Grand Prix,2010,2010-04-04,339,2,56,1:33:48.412,25.0,1:37.813,204.009,6
+238,20,Sebastian,Vettel,German,European Grand Prix,2010,2010-06-27,345,12,57,1:40:29.571,25.0,1:39.141,196.774,3
+239,20,Sebastian,Vettel,German,Japanese Grand Prix,2010,2010-10-10,352,22,53,1:30:27.323,25.0,1:33.653,223.219,3
+240,20,Sebastian,Vettel,German,Brazilian Grand Prix,2010,2010-11-07,354,18,71,1:33:11.803,25.0,1:14.283,208.828,6
+241,20,Sebastian,Vettel,German,Abu Dhabi Grand Prix,2010,2010-11-14,355,24,55,1:39:36.837,25.0,1:41.739,196.526,4
+242,20,Sebastian,Vettel,German,Australian Grand Prix,2011,2011-03-27,841,1,58,1:29:30.259,25.0,1:29.844,212.488,4
+243,20,Sebastian,Vettel,German,Malaysian Grand Prix,2011,2011-04-10,842,2,56,1:37:39.832,25.0,1:41.539,196.523,6
+244,20,Sebastian,Vettel,German,Turkish Grand Prix,2011,2011-05-08,844,5,58,1:30:17.558,25.0,1:29.937,213.669,3
+245,20,Sebastian,Vettel,German,Spanish Grand Prix,2011,2011-05-22,845,4,66,1:39:03.301,25.0,1:27.162,192.262,4
+246,20,Sebastian,Vettel,German,Monaco Grand Prix,2011,2011-05-29,846,6,78,2:09:38.373,25.0,1:16.267,157.656,2
+247,20,Sebastian,Vettel,German,European Grand Prix,2011,2011-06-26,848,12,57,1:39:36.169,25.0,1:41.852,191.536,1
+248,20,Sebastian,Vettel,German,Belgian Grand Prix,2011,2011-08-28,852,13,44,1:26:44.893,25.0,1:50.451,228.285,4
+249,20,Sebastian,Vettel,German,Italian Grand Prix,2011,2011-09-11,853,14,53,1:20:46.172,25.0,1:26.557,240.937,3
+250,20,Sebastian,Vettel,German,Singapore Grand Prix,2011,2011-09-25,854,15,61,1:59:06.757,25.0,1:48.688,168.029,2
+251,20,Sebastian,Vettel,German,Korean Grand Prix,2011,2011-10-16,856,35,55,1:38:01.994,25.0,1:39.605,202.941,1
+252,20,Sebastian,Vettel,German,Indian Grand Prix,2011,2011-10-30,857,68,60,1:30:35.002,25.0,1:27.249,211.463,1
+253,20,Sebastian,Vettel,German,Bahrain Grand Prix,2012,2012-04-22,863,3,57,1:35:10.990,25.0,1:36.379,202.151,1
+254,20,Sebastian,Vettel,German,Singapore Grand Prix,2012,2012-09-23,873,15,59,2:00:26.144,25.0,1:52.134,162.865,3
+255,20,Sebastian,Vettel,German,Japanese Grand Prix,2012,2012-10-07,874,22,53,1:28:56.242,25.0,1:35.774,218.276,1
+256,20,Sebastian,Vettel,German,Korean Grand Prix,2012,2012-10-14,875,35,55,1:36:28.651,25.0,1:42.499,197.211,5
+257,20,Sebastian,Vettel,German,Indian Grand Prix,2012,2012-10-28,876,68,60,1:31:10.744,25.0,1:28.723,207.950,4
+258,20,Sebastian,Vettel,German,Malaysian Grand Prix,2013,2013-03-24,881,2,56,1:38:56.681,25.0,1:40.446,198.661,3
+259,20,Sebastian,Vettel,German,Bahrain Grand Prix,2013,2013-04-21,883,3,57,1:36:00.498,25.0,1:36.961,200.938,1
+260,20,Sebastian,Vettel,German,Canadian Grand Prix,2013,2013-06-09,886,7,70,1:32:09.143,25.0,1:16.561,205.060,5
+261,20,Sebastian,Vettel,German,German Grand Prix,2013,2013-07-07,888,20,60,1:41:14.711,25.0,1:34.164,196.814,5
+262,20,Sebastian,Vettel,German,Belgian Grand Prix,2013,2013-08-25,891,13,44,1:23:42.196,25.0,1:50.756,227.657,1
+263,20,Sebastian,Vettel,German,Italian Grand Prix,2013,2013-09-08,892,14,53,1:18:33.352,25.0,1:27.190,239.187,12
+264,20,Sebastian,Vettel,German,Singapore Grand Prix,2013,2013-09-22,893,15,61,1:59:13.132,25.0,1:48.574,167.940,1
+265,20,Sebastian,Vettel,German,Korean Grand Prix,2013,2013-10-06,894,35,55,1:43:13.701,25.0,1:41.380,199.388,1
+266,20,Sebastian,Vettel,German,Japanese Grand Prix,2013,2013-10-13,895,22,53,1:26:49.301,25.0,1:35.317,219.322,4
+267,20,Sebastian,Vettel,German,Indian Grand Prix,2013,2013-10-27,896,68,60,1:31:12.187,25.0,1:28.116,209.383,2
+268,20,Sebastian,Vettel,German,Abu Dhabi Grand Prix,2013,2013-11-03,897,24,55,1:38:06.106,25.0,1:43.893,192.451,2
+269,20,Sebastian,Vettel,German,United States Grand Prix,2013,2013-11-17,898,69,56,1:39:17.148,25.0,1:39.856,198.754,1
+270,20,Sebastian,Vettel,German,Brazilian Grand Prix,2013,2013-11-24,899,18,71,1:32:36.300,25.0,1:15.624,205.125,3
+271,20,Sebastian,Vettel,German,Malaysian Grand Prix,2015,2015-03-29,927,2,56,1:41:05.793,25.0,1:43.648,193.501,3
+272,20,Sebastian,Vettel,German,Hungarian Grand Prix,2015,2015-07-26,936,11,69,1:46:09.985,25.0,1:26.772,181.759,5
+273,20,Sebastian,Vettel,German,Singapore Grand Prix,2015,2015-09-20,939,15,61,2:01:22.118,25.0,1:50.069,165.659,2
+274,20,Sebastian,Vettel,German,Australian Grand Prix,2017,2017-03-26,969,1,57,1:24:11.672,25.0,1:26.638,220.351,3
+275,20,Sebastian,Vettel,German,Bahrain Grand Prix,2017,2017-04-16,971,3,57,1:33:53.374,25.0,1:33.826,207.652,4
+276,20,Sebastian,Vettel,German,Monaco Grand Prix,2017,2017-05-28,974,6,78,1:44:44.340,25.0,1:15.238,159.669,2
+277,20,Sebastian,Vettel,German,Hungarian Grand Prix,2017,2017-07-30,979,11,70,1:39:46.713,25.0,1:20.807,195.176,4
+278,20,Sebastian,Vettel,German,Brazilian Grand Prix,2017,2017-11-12,987,18,71,1:31:26.262,25.0,1:12.539,213.849,7
+279,20,Sebastian,Vettel,German,Australian Grand Prix,2018,2018-03-25,989,1,58,1:29:33.283,25.0,1:26.469,220.782,4
+280,20,Sebastian,Vettel,German,Bahrain Grand Prix,2018,2018-04-08,990,3,57,1:32:01.940,25.0,1:34.453,206.274,7
+281,20,Sebastian,Vettel,German,Canadian Grand Prix,2018,2018-06-10,995,7,68,1:28:31.377,25.0,1:13.964,212.260,2
+282,20,Sebastian,Vettel,German,British Grand Prix,2018,2018-07-08,998,9,52,1:27:29.784,25.0,1:30.696,233.831,1
+283,20,Sebastian,Vettel,German,Belgian Grand Prix,2018,2018-08-26,1001,13,44,1:23:34.476,25.0,1:46.644,236.435,2
+284,20,Sebastian,Vettel,German,Singapore Grand Prix,2019,2019-09-22,1024,15,61,1:58:33.667,25.0,1:44.802,173.916,5
+285,21,Giancarlo,Fisichella,Italian,Brazilian Grand Prix,2003,2003-04-06,110,18,54,1:31:18.2,10.0,\N,\N,\N
+286,21,Giancarlo,Fisichella,Italian,Australian Grand Prix,2005,2005-03-06,71,1,57,1:24:17.336,10.0,1:25.994,222.001,2
+287,21,Giancarlo,Fisichella,Italian,Malaysian Grand Prix,2006,2006-03-19,54,2,56,1:30:40.529,10.0,1:35.294,209.402,2
+288,22,Rubens,Barrichello,Brazilian,German Grand Prix,2000,2000-07-30,168,10,45,1:25:34.418,10.0,\N,\N,\N
+289,22,Rubens,Barrichello,Brazilian,European Grand Prix,2002,2002-06-23,132,20,60,1:35:07.426,10.0,\N,\N,\N
+290,22,Rubens,Barrichello,Brazilian,Hungarian Grand Prix,2002,2002-08-18,136,11,77,1:41:49.001,10.0,\N,\N,\N
+291,22,Rubens,Barrichello,Brazilian,Italian Grand Prix,2002,2002-09-15,138,14,53,1:16:19.982,10.0,\N,\N,\N
+292,22,Rubens,Barrichello,Brazilian,United States Grand Prix,2002,2002-09-29,139,19,73,1:31:08.0,10.0,\N,\N,\N
+293,22,Rubens,Barrichello,Brazilian,British Grand Prix,2003,2003-07-20,118,9,60,1:28:37.554,10.0,\N,\N,\N
+294,22,Rubens,Barrichello,Brazilian,Japanese Grand Prix,2003,2003-10-12,123,22,53,1:25:11.743,10.0,\N,\N,\N
+295,22,Rubens,Barrichello,Brazilian,Italian Grand Prix,2004,2004-09-12,104,14,53,1:15:18.448,10.0,1:21.046,257.320,1
+296,22,Rubens,Barrichello,Brazilian,Chinese Grand Prix,2004,2004-09-26,105,17,56,1:29:12.420,10.0,1:32.455,212.250,2
+297,22,Rubens,Barrichello,Brazilian,European Grand Prix,2009,2009-08-23,11,12,57,1:35:51.289,10.0,1:38.990,197.074,3
+298,22,Rubens,Barrichello,Brazilian,Italian Grand Prix,2009,2009-09-13,13,14,53,1:16:21.706,10.0,1:24.967,245.445,5
+299,23,Ralf,Schumacher,German,San Marino Grand Prix,2001,2001-04-15,144,21,62,1:30:44.817,10.0,\N,\N,\N
+300,23,Ralf,Schumacher,German,Canadian Grand Prix,2001,2001-06-10,148,7,69,1:34:31.522,10.0,\N,\N,\N
+301,23,Ralf,Schumacher,German,German Grand Prix,2001,2001-07-29,152,10,45,1:18:17.873,10.0,\N,\N,\N
+302,23,Ralf,Schumacher,German,Malaysian Grand Prix,2002,2002-03-17,125,2,56,1:34:12.912,10.0,\N,\N,\N
+303,23,Ralf,Schumacher,German,European Grand Prix,2003,2003-06-29,116,20,60,1:34:43.622,10.0,\N,\N,\N
+304,23,Ralf,Schumacher,German,French Grand Prix,2003,2003-07-06,117,8,70,1:30:49.213,10.0,\N,\N,\N
+305,30,Michael,Schumacher,German,Belgian Grand Prix,1992,1992-08-30,300,13,44,1:36:10.721,10.0,\N,\N,\N
+306,30,Michael,Schumacher,German,Portuguese Grand Prix,1993,1993-09-26,286,27,71,1:32:46.309,10.0,\N,\N,\N
+307,30,Michael,Schumacher,German,Brazilian Grand Prix,1994,1994-03-27,257,18,71,1:35:39.2,10.0,\N,\N,\N
+308,30,Michael,Schumacher,German,Pacific Grand Prix,1994,1994-04-17,258,28,83,1:46:01.693,10.0,\N,\N,\N
+309,30,Michael,Schumacher,German,San Marino Grand Prix,1994,1994-05-01,259,21,58,1:28:28.642,10.0,\N,\N,\N
+310,30,Michael,Schumacher,German,Monaco Grand Prix,1994,1994-05-15,260,6,78,1:49:55.3,10.0,\N,\N,\N
+311,30,Michael,Schumacher,German,Canadian Grand Prix,1994,1994-06-12,262,7,69,1:44:32.1,10.0,\N,\N,\N
+312,30,Michael,Schumacher,German,French Grand Prix,1994,1994-07-03,263,8,72,1:38:36.2,10.0,\N,\N,\N
+313,30,Michael,Schumacher,German,Hungarian Grand Prix,1994,1994-08-14,266,11,77,1:48:00.185,10.0,\N,\N,\N
+314,30,Michael,Schumacher,German,European Grand Prix,1994,1994-10-16,270,26,69,1:40:27.3,10.0,\N,\N,\N
+315,30,Michael,Schumacher,German,Brazilian Grand Prix,1995,1995-03-26,240,18,71,1:38:34.154,10.0,\N,\N,\N
+316,30,Michael,Schumacher,German,Spanish Grand Prix,1995,1995-05-14,243,4,65,1:34:20.507,10.0,\N,\N,\N
+317,30,Michael,Schumacher,German,Monaco Grand Prix,1995,1995-05-28,244,6,78,1:53:11.258,10.0,\N,\N,\N
+318,30,Michael,Schumacher,German,French Grand Prix,1995,1995-07-02,246,8,72,1:38:28.429,10.0,\N,\N,\N
+319,30,Michael,Schumacher,German,German Grand Prix,1995,1995-07-30,248,10,45,1:22:56.043,10.0,\N,\N,\N
+320,30,Michael,Schumacher,German,Belgian Grand Prix,1995,1995-08-27,250,13,44,1:36:47.875,10.0,\N,\N,\N
+321,30,Michael,Schumacher,German,European Grand Prix,1995,1995-10-01,253,20,67,1:39:59.044,10.0,\N,\N,\N
+322,30,Michael,Schumacher,German,Pacific Grand Prix,1995,1995-10-22,254,28,83,1:48:49.972,10.0,\N,\N,\N
+323,30,Michael,Schumacher,German,Japanese Grand Prix,1995,1995-10-29,255,22,53,1:36:52.930,10.0,\N,\N,\N
+324,30,Michael,Schumacher,German,Spanish Grand Prix,1996,1996-06-02,230,4,65,1:59:49.307,10.0,\N,\N,\N
+325,30,Michael,Schumacher,German,Belgian Grand Prix,1996,1996-08-25,236,13,44,1:28:15.125,10.0,\N,\N,\N
+326,30,Michael,Schumacher,German,Italian Grand Prix,1996,1996-09-08,237,14,53,1:17:43.632,10.0,\N,\N,\N
+327,30,Michael,Schumacher,German,Monaco Grand Prix,1997,1997-05-11,211,6,62,2:00:05.654,10.0,\N,\N,\N
+328,30,Michael,Schumacher,German,Canadian Grand Prix,1997,1997-06-15,213,7,54,1:17:40.646,10.0,\N,\N,\N
+329,30,Michael,Schumacher,German,French Grand Prix,1997,1997-06-29,214,8,72,1:38:50.492,10.0,\N,\N,\N
+330,30,Michael,Schumacher,German,Belgian Grand Prix,1997,1997-08-24,218,13,44,1:33:46.717,10.0,\N,\N,\N
+331,30,Michael,Schumacher,German,Japanese Grand Prix,1997,1997-10-12,222,22,53,1:29:48.446,10.0,\N,\N,\N
+332,30,Michael,Schumacher,German,Argentine Grand Prix,1998,1998-04-12,193,25,72,1:48:36.1,10.0,\N,\N,\N
+333,30,Michael,Schumacher,German,Canadian Grand Prix,1998,1998-06-07,197,7,69,1:40:57.3,10.0,\N,\N,\N
+334,30,Michael,Schumacher,German,French Grand Prix,1998,1998-06-28,198,8,71,1:34:45.0,10.0,\N,\N,\N
+335,30,Michael,Schumacher,German,British Grand Prix,1998,1998-07-12,199,9,60,1:47:02.4,10.0,\N,\N,\N
+336,30,Michael,Schumacher,German,Hungarian Grand Prix,1998,1998-08-16,202,11,77,1:45:26.4,10.0,\N,\N,\N
+337,30,Michael,Schumacher,German,Italian Grand Prix,1998,1998-09-13,204,14,53,1:17:10.3,10.0,\N,\N,\N
+338,30,Michael,Schumacher,German,San Marino Grand Prix,1999,1999-05-02,177,21,62,1:33:44.792,10.0,\N,\N,\N
+339,30,Michael,Schumacher,German,Monaco Grand Prix,1999,1999-05-16,178,6,78,1:49:31.812,10.0,\N,\N,\N
+340,30,Michael,Schumacher,German,Australian Grand Prix,2000,2000-03-12,158,1,58,1:34:01.987,10.0,\N,\N,\N
+341,30,Michael,Schumacher,German,Brazilian Grand Prix,2000,2000-03-26,159,18,71,1:31:35.271,10.0,\N,\N,\N
+342,30,Michael,Schumacher,German,San Marino Grand Prix,2000,2000-04-09,160,21,62,1:31:39.776,10.0,\N,\N,\N
+343,30,Michael,Schumacher,German,European Grand Prix,2000,2000-05-21,163,20,67,1:42:00.307,10.0,\N,\N,\N
+344,30,Michael,Schumacher,German,Canadian Grand Prix,2000,2000-06-18,165,7,69,1:41:12.313,10.0,\N,\N,\N
+345,30,Michael,Schumacher,German,Italian Grand Prix,2000,2000-09-10,171,14,53,1:27:31.638,10.0,\N,\N,\N
+346,30,Michael,Schumacher,German,United States Grand Prix,2000,2000-09-24,172,19,73,1:36:30.883,10.0,\N,\N,\N
+347,30,Michael,Schumacher,German,Japanese Grand Prix,2000,2000-10-08,173,22,53,1:29:53.435,10.0,\N,\N,\N
+348,30,Michael,Schumacher,German,Malaysian Grand Prix,2000,2000-10-22,174,2,56,1:35:54.235,10.0,\N,\N,\N
+349,30,Michael,Schumacher,German,Australian Grand Prix,2001,2001-03-04,141,1,58,1:38:26.533,10.0,\N,\N,\N
+350,30,Michael,Schumacher,German,Malaysian Grand Prix,2001,2001-03-18,142,2,55,1:47:34.801,10.0,\N,\N,\N
+351,30,Michael,Schumacher,German,Spanish Grand Prix,2001,2001-04-29,145,4,65,1:31:03.305,10.0,\N,\N,\N
+352,30,Michael,Schumacher,German,Monaco Grand Prix,2001,2001-05-27,147,6,78,1:47:22.561,10.0,\N,\N,\N
+353,30,Michael,Schumacher,German,European Grand Prix,2001,2001-06-24,149,20,67,1:29:42.724,10.0,\N,\N,\N
+354,30,Michael,Schumacher,German,French Grand Prix,2001,2001-07-01,150,8,72,1:33:35.636,10.0,\N,\N,\N
+355,30,Michael,Schumacher,German,Hungarian Grand Prix,2001,2001-08-19,153,11,77,1:41:49.675,10.0,\N,\N,\N
+356,30,Michael,Schumacher,German,Belgian Grand Prix,2001,2001-09-02,154,13,36,1:08:05.002,10.0,\N,\N,\N
+357,30,Michael,Schumacher,German,Japanese Grand Prix,2001,2001-10-14,157,22,53,1:27:33.298,10.0,\N,\N,\N
+358,30,Michael,Schumacher,German,Australian Grand Prix,2002,2002-03-03,124,1,58,1:35:36.792,10.0,\N,\N,\N
+359,30,Michael,Schumacher,German,Brazilian Grand Prix,2002,2002-03-31,126,18,71,1:31:43.662,10.0,\N,\N,\N
+360,30,Michael,Schumacher,German,San Marino Grand Prix,2002,2002-04-14,127,21,62,1:29:10.789,10.0,\N,\N,\N
+361,30,Michael,Schumacher,German,Spanish Grand Prix,2002,2002-04-28,128,4,65,1:30:29.981,10.0,\N,\N,\N
+362,30,Michael,Schumacher,German,Austrian Grand Prix,2002,2002-05-12,129,70,71,1:33:51.562,10.0,\N,\N,\N
+363,30,Michael,Schumacher,German,Canadian Grand Prix,2002,2002-06-09,131,7,70,1:33:36.111,10.0,\N,\N,\N
+364,30,Michael,Schumacher,German,British Grand Prix,2002,2002-07-07,133,9,60,1:31:45.015,10.0,\N,\N,\N
+365,30,Michael,Schumacher,German,French Grand Prix,2002,2002-07-21,134,8,72,1:32:09.837,10.0,\N,\N,\N
+366,30,Michael,Schumacher,German,German Grand Prix,2002,2002-07-28,135,10,67,1:27:52.078,10.0,\N,\N,\N
+367,30,Michael,Schumacher,German,Belgian Grand Prix,2002,2002-09-01,137,13,44,1:21:20.634,10.0,\N,\N,\N
+368,30,Michael,Schumacher,German,Japanese Grand Prix,2002,2002-10-13,140,22,53,1:26:59.698,10.0,\N,\N,\N
+369,30,Michael,Schumacher,German,San Marino Grand Prix,2003,2003-04-20,111,21,62,1:28:12.058,10.0,\N,\N,\N
+370,30,Michael,Schumacher,German,Spanish Grand Prix,2003,2003-05-04,112,4,65,1:33:46.933,10.0,\N,\N,\N
+371,30,Michael,Schumacher,German,Austrian Grand Prix,2003,2003-05-18,113,70,69,1:24:04.888,10.0,\N,\N,\N
+372,30,Michael,Schumacher,German,Canadian Grand Prix,2003,2003-06-15,115,7,70,1:31:13.591,10.0,\N,\N,\N
+373,30,Michael,Schumacher,German,Italian Grand Prix,2003,2003-09-14,121,14,53,1:14:19.838,10.0,\N,\N,\N
+374,30,Michael,Schumacher,German,United States Grand Prix,2003,2003-09-28,122,19,73,1:33:35.997,10.0,\N,\N,\N
+375,30,Michael,Schumacher,German,Australian Grand Prix,2004,2004-03-07,90,1,58,1:24:15.757,10.0,1:24.125,226.933,1
+376,30,Michael,Schumacher,German,Malaysian Grand Prix,2004,2004-03-21,91,2,56,1:31:07.490,10.0,1:34.819,210.451,2
+377,30,Michael,Schumacher,German,Bahrain Grand Prix,2004,2004-04-04,92,3,57,1:28:34.875,10.0,1:30.252,216.074,1
+378,30,Michael,Schumacher,German,San Marino Grand Prix,2004,2004-04-25,93,21,62,1:26:19.670,10.0,1:20.411,220.850,1
+379,30,Michael,Schumacher,German,Spanish Grand Prix,2004,2004-05-09,94,4,66,1:27:32.841,10.0,1:17.450,215.070,1
+380,30,Michael,Schumacher,German,European Grand Prix,2004,2004-05-30,96,20,60,1:32:35.101,10.0,1:29.468,207.144,1
+381,30,Michael,Schumacher,German,Canadian Grand Prix,2004,2004-06-13,97,7,70,1:28:24.803,10.0,1:13.630,213.222,2
+382,30,Michael,Schumacher,German,United States Grand Prix,2004,2004-06-20,98,19,73,1:40:29.914,10.0,1:10.412,214.327,2
+383,30,Michael,Schumacher,German,French Grand Prix,2004,2004-07-04,99,8,70,1:30:18.133,10.0,1:15.377,210.669,1
+384,30,Michael,Schumacher,German,British Grand Prix,2004,2004-07-11,100,9,60,1:24:42.700,10.0,1:18.739,235.049,1
+385,30,Michael,Schumacher,German,German Grand Prix,2004,2004-07-25,101,10,66,1:23:54.848,10.0,1:13.783,223.173,2
+386,30,Michael,Schumacher,German,Hungarian Grand Prix,2004,2004-08-15,102,11,70,1:35:26.131,10.0,1:19.071,199.461,1
+387,30,Michael,Schumacher,German,Japanese Grand Prix,2004,2004-10-10,106,22,53,1:24:26.985,10.0,1:32.796,225.281,2
+388,30,Michael,Schumacher,German,United States Grand Prix,2005,2005-06-19,79,19,73,1:29:43.181,10.0,1:11.497,211.074,1
+389,30,Michael,Schumacher,German,San Marino Grand Prix,2006,2006-04-23,56,21,62,1:31:06.486,10.0,1:24.624,210.961,2
+390,30,Michael,Schumacher,German,European Grand Prix,2006,2006-05-07,57,20,60,1:35:58.765,10.0,1:32.099,201.226,1
+391,30,Michael,Schumacher,German,United States Grand Prix,2006,2006-07-02,62,19,73,1:34:35.199,10.0,1:12.719,207.527,1
+392,30,Michael,Schumacher,German,French Grand Prix,2006,2006-07-16,63,8,70,1:32:07.803,10.0,1:17.111,205.931,1
+393,30,Michael,Schumacher,German,German Grand Prix,2006,2006-07-30,64,10,67,1:27:51.693,10.0,1:16.357,215.650,1
+394,30,Michael,Schumacher,German,Italian Grand Prix,2006,2006-09-10,67,14,53,1:14:51.975,10.0,1:22.575,252.555,2
+395,30,Michael,Schumacher,German,Chinese Grand Prix,2006,2006-10-01,68,17,56,1:37:32.747,10.0,1:38.553,199.117,2
+396,31,Juan,Pablo Montoya,Colombian,Italian Grand Prix,2001,2001-09-16,155,14,53,1:16:58.493,10.0,\N,\N,\N
+397,31,Juan,Pablo Montoya,Colombian,Monaco Grand Prix,2003,2003-06-01,114,6,78,1:42:19.010,10.0,\N,\N,\N
+398,31,Juan,Pablo Montoya,Colombian,German Grand Prix,2003,2003-08-03,119,10,67,1:28:48.769,10.0,\N,\N,\N
+399,31,Juan,Pablo Montoya,Colombian,Brazilian Grand Prix,2004,2004-10-24,107,18,71,1:28:01.451,10.0,1:11.473,217.038,1
+400,31,Juan,Pablo Montoya,Colombian,British Grand Prix,2005,2005-07-10,81,9,60,1:24:29.588,10.0,1:20.700,229.338,2
+401,31,Juan,Pablo Montoya,Colombian,Italian Grand Prix,2005,2005-09-04,85,14,53,1:14:28.659,10.0,1:21.828,254.861,2
+402,31,Juan,Pablo Montoya,Colombian,Brazilian Grand Prix,2005,2005-09-25,87,18,71,1:29:20.574,10.0,1:12.650,213.522,2
+403,35,Jacques,Villeneuve,Canadian,European Grand Prix,1996,1996-04-28,227,20,67,1:33:26.473,10.0,\N,\N,\N
+404,35,Jacques,Villeneuve,Canadian,British Grand Prix,1996,1996-07-14,233,9,61,1:33:00.874,10.0,\N,\N,\N
+405,35,Jacques,Villeneuve,Canadian,Hungarian Grand Prix,1996,1996-08-11,235,11,77,1:46:21.134,10.0,\N,\N,\N
+406,35,Jacques,Villeneuve,Canadian,Portuguese Grand Prix,1996,1996-09-22,238,27,70,1:40:22.915,10.0,\N,\N,\N
+407,35,Jacques,Villeneuve,Canadian,Brazilian Grand Prix,1997,1997-03-30,208,18,72,1:36:06.990,10.0,\N,\N,\N
+408,35,Jacques,Villeneuve,Canadian,Argentine Grand Prix,1997,1997-04-13,209,25,72,1:52:01.715,10.0,\N,\N,\N
+409,35,Jacques,Villeneuve,Canadian,Spanish Grand Prix,1997,1997-05-25,212,4,64,1:30:35.896,10.0,\N,\N,\N
+410,35,Jacques,Villeneuve,Canadian,British Grand Prix,1997,1997-07-13,215,9,59,1:28:01.665,10.0,\N,\N,\N
+411,35,Jacques,Villeneuve,Canadian,Hungarian Grand Prix,1997,1997-08-10,217,11,77,1:45:47.149,10.0,\N,\N,\N
+412,35,Jacques,Villeneuve,Canadian,Austrian Grand Prix,1997,1997-09-21,220,70,71,1:27:35.999,10.0,\N,\N,\N
+413,35,Jacques,Villeneuve,Canadian,Luxembourg Grand Prix,1997,1997-09-28,221,20,67,1:31:27.843,10.0,\N,\N,\N
+414,44,Olivier,Panis,French,Monaco Grand Prix,1996,1996-05-19,229,6,75,2:00:45.629,10.0,\N,\N,\N
+415,49,Heinz-Harald,Frentzen,German,San Marino Grand Prix,1997,1997-04-27,210,21,62,1:31:00.673,10.0,\N,\N,\N
+416,49,Heinz-Harald,Frentzen,German,French Grand Prix,1999,1999-06-27,181,8,72,1:58:24.343,10.0,\N,\N,\N
+417,49,Heinz-Harald,Frentzen,German,Italian Grand Prix,1999,1999-09-12,187,14,53,1:17:02.923,10.0,\N,\N,\N
+418,55,Jean,Alesi,French,Canadian Grand Prix,1995,1995-06-11,245,7,68,1:44:54.171,10.0,\N,\N,\N
+419,56,Eddie,Irvine,British,Australian Grand Prix,1999,1999-03-07,175,1,57,1:35:01.659,10.0,\N,\N,\N
+420,56,Eddie,Irvine,British,Austrian Grand Prix,1999,1999-07-25,183,70,71,1:28:12.438,10.0,\N,\N,\N
+421,56,Eddie,Irvine,British,German Grand Prix,1999,1999-08-01,184,10,45,1:21:58.594,10.0,\N,\N,\N
+422,56,Eddie,Irvine,British,Malaysian Grand Prix,1999,1999-10-17,189,2,56,1:36:38.494,10.0,\N,\N,\N
+423,57,Mika,Häkkinen,Finnish,European Grand Prix,1997,1997-10-26,223,26,69,1:38:57.771,10.0,\N,\N,\N
+424,57,Mika,Häkkinen,Finnish,Australian Grand Prix,1998,1998-03-08,191,1,58,1:31:46.0,10.0,\N,\N,\N
+425,57,Mika,Häkkinen,Finnish,Brazilian Grand Prix,1998,1998-03-29,192,18,72,1:37:12.2,10.0,\N,\N,\N
+426,57,Mika,Häkkinen,Finnish,Spanish Grand Prix,1998,1998-05-10,195,4,65,1:33:38.3,10.0,\N,\N,\N
+427,57,Mika,Häkkinen,Finnish,Monaco Grand Prix,1998,1998-05-24,196,6,78,1:51:24.4,10.0,\N,\N,\N
+428,57,Mika,Häkkinen,Finnish,Austrian Grand Prix,1998,1998-07-26,200,70,71,1:30:44.0,10.0,\N,\N,\N
+429,57,Mika,Häkkinen,Finnish,German Grand Prix,1998,1998-08-02,201,10,45,1:20:48.0,10.0,\N,\N,\N
+430,57,Mika,Häkkinen,Finnish,Luxembourg Grand Prix,1998,1998-09-27,205,20,67,1:32:14.789,10.0,\N,\N,\N
+431,57,Mika,Häkkinen,Finnish,Japanese Grand Prix,1998,1998-11-01,206,22,51,1:27:23.4,10.0,\N,\N,\N
+432,57,Mika,Häkkinen,Finnish,Brazilian Grand Prix,1999,1999-04-11,176,18,72,1:36:03.785,10.0,\N,\N,\N
+433,57,Mika,Häkkinen,Finnish,Spanish Grand Prix,1999,1999-05-30,179,4,65,1:34:13.665,10.0,\N,\N,\N
+434,57,Mika,Häkkinen,Finnish,Canadian Grand Prix,1999,1999-06-13,180,7,69,1:41:35.727,10.0,\N,\N,\N
+435,57,Mika,Häkkinen,Finnish,Hungarian Grand Prix,1999,1999-08-15,185,11,77,1:46:23.536,10.0,\N,\N,\N
+436,57,Mika,Häkkinen,Finnish,Japanese Grand Prix,1999,1999-10-31,190,22,53,1:31:18.785,10.0,\N,\N,\N
+437,57,Mika,Häkkinen,Finnish,Spanish Grand Prix,2000,2000-05-07,162,4,65,1:33:55.390,10.0,\N,\N,\N
+438,57,Mika,Häkkinen,Finnish,Austrian Grand Prix,2000,2000-07-16,167,70,71,1:28:15.818,10.0,\N,\N,\N
+439,57,Mika,Häkkinen,Finnish,Hungarian Grand Prix,2000,2000-08-13,169,11,77,1:45:33.869,10.0,\N,\N,\N
+440,57,Mika,Häkkinen,Finnish,Belgian Grand Prix,2000,2000-08-27,170,13,44,1:28:14.494,10.0,\N,\N,\N
+441,57,Mika,Häkkinen,Finnish,British Grand Prix,2001,2001-07-15,151,9,60,1:25:33.770,10.0,\N,\N,\N
+442,57,Mika,Häkkinen,Finnish,United States Grand Prix,2001,2001-09-30,156,19,73,1:32:42.840,10.0,\N,\N,\N
+443,65,Johnny,Herbert,British,British Grand Prix,1995,1995-07-16,247,9,61,1:34:35.093,10.0,\N,\N,\N
+444,65,Johnny,Herbert,British,Italian Grand Prix,1995,1995-09-10,251,14,53,1:18:27.916,10.0,\N,\N,\N
+445,65,Johnny,Herbert,British,European Grand Prix,1999,1999-09-26,188,20,66,1:41:54.314,10.0,\N,\N,\N
+446,71,Damon,Hill,British,Hungarian Grand Prix,1993,1993-08-15,283,11,77,1:47:39.098,10.0,\N,\N,\N
+447,71,Damon,Hill,British,Belgian Grand Prix,1993,1993-08-29,284,13,44,1:24:32.124,10.0,\N,\N,\N
+448,71,Damon,Hill,British,Italian Grand Prix,1993,1993-09-12,285,14,53,1:17:07.509,10.0,\N,\N,\N
+449,71,Damon,Hill,British,Spanish Grand Prix,1994,1994-05-29,261,4,65,1:36:14.3,10.0,\N,\N,\N
+450,71,Damon,Hill,British,British Grand Prix,1994,1994-07-10,264,9,60,1:30:03.640,10.0,\N,\N,\N
+451,71,Damon,Hill,British,Belgian Grand Prix,1994,1994-08-28,267,13,44,1:28:47.1,10.0,\N,\N,\N
+452,71,Damon,Hill,British,Italian Grand Prix,1994,1994-09-11,268,14,53,1:18:03.2,10.0,\N,\N,\N
+453,71,Damon,Hill,British,Portuguese Grand Prix,1994,1994-09-25,269,27,71,1:45:10.1,10.0,\N,\N,\N
+454,71,Damon,Hill,British,Japanese Grand Prix,1994,1994-11-06,271,22,50,1:55:53.532,10.0,\N,\N,\N
+455,71,Damon,Hill,British,Argentine Grand Prix,1995,1995-04-09,241,25,72,1:53:14.532,10.0,\N,\N,\N
+456,71,Damon,Hill,British,San Marino Grand Prix,1995,1995-04-30,242,21,63,1:41:42.522,10.0,\N,\N,\N
+457,71,Damon,Hill,British,Hungarian Grand Prix,1995,1995-08-13,249,11,77,1:46:25.721,10.0,\N,\N,\N
+458,71,Damon,Hill,British,Australian Grand Prix,1995,1995-11-12,256,29,81,1:49:15.946,10.0,\N,\N,\N
+459,71,Damon,Hill,British,Australian Grand Prix,1996,1996-03-10,224,1,58,1:32:50.4,10.0,\N,\N,\N
+460,71,Damon,Hill,British,Brazilian Grand Prix,1996,1996-03-31,225,18,71,1:49:52.976,10.0,\N,\N,\N
+461,71,Damon,Hill,British,Argentine Grand Prix,1996,1996-04-07,226,25,72,1:54:55.322,10.0,\N,\N,\N
+462,71,Damon,Hill,British,San Marino Grand Prix,1996,1996-05-05,228,21,63,1:35:26.156,10.0,\N,\N,\N
+463,71,Damon,Hill,British,Canadian Grand Prix,1996,1996-06-16,231,7,69,1:36:03.4,10.0,\N,\N,\N
+464,71,Damon,Hill,British,French Grand Prix,1996,1996-06-30,232,8,72,1:36:29.2,10.0,\N,\N,\N
+465,71,Damon,Hill,British,German Grand Prix,1996,1996-07-28,234,10,45,1:21:43.417,10.0,\N,\N,\N
+466,71,Damon,Hill,British,Japanese Grand Prix,1996,1996-10-13,239,22,52,1:32:33.791,10.0,\N,\N,\N
+467,71,Damon,Hill,British,Belgian Grand Prix,1998,1998-08-30,203,13,44,1:43:47.407,10.0,\N,\N,\N
+468,77,Gerhard,Berger,Austrian,Mexican Grand Prix,1986,1986-10-12,418,32,68,1:33:18.700,9.0,\N,\N,\N
+469,77,Gerhard,Berger,Austrian,Japanese Grand Prix,1987,1987-11-01,402,22,51,1:32:58.072,9.0,\N,\N,\N
+470,77,Gerhard,Berger,Austrian,Australian Grand Prix,1987,1987-11-15,403,29,82,1:52:56.144,9.0,\N,\N,\N
+471,77,Gerhard,Berger,Austrian,Italian Grand Prix,1988,1988-09-11,383,14,51,1:17:39.744,9.0,\N,\N,\N
+472,77,Gerhard,Berger,Austrian,Portuguese Grand Prix,1989,1989-09-24,368,27,71,1:36:48.546,9.0,\N,\N,\N
+473,77,Gerhard,Berger,Austrian,Japanese Grand Prix,1991,1991-10-20,319,22,53,1:32:10.695,10.0,\N,\N,\N
+474,77,Gerhard,Berger,Austrian,Canadian Grand Prix,1992,1992-06-14,295,7,69,1:37:08.299,10.0,\N,\N,\N
+475,77,Gerhard,Berger,Austrian,Australian Grand Prix,1992,1992-11-08,304,29,81,1:46:54.786,10.0,\N,\N,\N
+476,77,Gerhard,Berger,Austrian,German Grand Prix,1994,1994-07-31,265,10,45,1:22:37.2,10.0,\N,\N,\N
+477,77,Gerhard,Berger,Austrian,German Grand Prix,1997,1997-07-27,216,10,45,1:20:59.046,10.0,\N,\N,\N
+478,95,Nigel,Mansell,British,European Grand Prix,1985,1985-10-06,433,38,75,1:32:58.109,9.0,\N,\N,\N
+479,95,Nigel,Mansell,British,South African Grand Prix,1985,1985-10-19,434,30,75,1:28:22.866,9.0,\N,\N,\N
+480,95,Nigel,Mansell,British,Belgian Grand Prix,1986,1986-05-25,408,13,43,1:27:57.925,9.0,\N,\N,\N
+481,95,Nigel,Mansell,British,Canadian Grand Prix,1986,1986-06-15,409,7,69,1:42:26.415,9.0,\N,\N,\N
+482,95,Nigel,Mansell,British,French Grand Prix,1986,1986-07-06,411,34,80,1:37:19.272,9.0,\N,\N,\N
+483,95,Nigel,Mansell,British,British Grand Prix,1986,1986-07-13,412,38,75,1:30:38.471,9.0,\N,\N,\N
+484,95,Nigel,Mansell,British,Portuguese Grand Prix,1986,1986-09-21,417,27,70,1:37:21.900,9.0,\N,\N,\N
+485,95,Nigel,Mansell,British,San Marino Grand Prix,1987,1987-05-03,389,21,59,1:31:24.076,9.0,\N,\N,\N
+486,95,Nigel,Mansell,British,French Grand Prix,1987,1987-07-05,393,34,80,1:37:03.839,9.0,\N,\N,\N
+487,95,Nigel,Mansell,British,British Grand Prix,1987,1987-07-12,394,9,65,1:19:11.780,9.0,\N,\N,\N
+488,95,Nigel,Mansell,British,Austrian Grand Prix,1987,1987-08-16,397,70,52,1:18:44.898,9.0,\N,\N,\N
+489,95,Nigel,Mansell,British,Spanish Grand Prix,1987,1987-09-27,400,26,72,1:49:12.692,9.0,\N,\N,\N
+490,95,Nigel,Mansell,British,Mexican Grand Prix,1987,1987-10-18,401,32,63,1:26:24.207,9.0,\N,\N,\N
+491,95,Nigel,Mansell,British,Brazilian Grand Prix,1989,1989-03-26,356,36,61,1:38:58.744,9.0,\N,\N,\N
+492,95,Nigel,Mansell,British,Hungarian Grand Prix,1989,1989-08-13,365,11,77,1:49:38.650,9.0,\N,\N,\N
+493,95,Nigel,Mansell,British,Portuguese Grand Prix,1990,1990-09-23,333,27,61,1:22:11.014,9.0,\N,\N,\N
+494,95,Nigel,Mansell,British,French Grand Prix,1991,1991-07-07,311,8,72,1:38:00.056,10.0,\N,\N,\N
+495,95,Nigel,Mansell,British,British Grand Prix,1991,1991-07-14,312,9,59,1:27:35.479,10.0,\N,\N,\N
+496,95,Nigel,Mansell,British,German Grand Prix,1991,1991-07-28,313,10,45,1:19:29.661,10.0,\N,\N,\N
+497,95,Nigel,Mansell,British,Italian Grand Prix,1991,1991-09-08,316,14,53,1:17:54.319,10.0,\N,\N,\N
+498,95,Nigel,Mansell,British,Spanish Grand Prix,1991,1991-09-29,318,4,65,1:38:41.541,10.0,\N,\N,\N
+499,95,Nigel,Mansell,British,South African Grand Prix,1992,1992-03-01,289,30,72,1:36:45.320,10.0,\N,\N,\N
+500,95,Nigel,Mansell,British,Mexican Grand Prix,1992,1992-03-22,290,32,69,1:31:53.587,10.0,\N,\N,\N
+501,95,Nigel,Mansell,British,Brazilian Grand Prix,1992,1992-04-05,291,18,71,1:36:51.856,10.0,\N,\N,\N
+502,95,Nigel,Mansell,British,Spanish Grand Prix,1992,1992-05-03,292,4,65,1:56:10.674,10.0,\N,\N,\N
+503,95,Nigel,Mansell,British,San Marino Grand Prix,1992,1992-05-17,293,21,60,1:28:40.927,10.0,\N,\N,\N
+504,95,Nigel,Mansell,British,French Grand Prix,1992,1992-07-05,296,8,69,1:38:08.459,10.0,\N,\N,\N
+505,95,Nigel,Mansell,British,British Grand Prix,1992,1992-07-12,297,9,59,1:25:42.991,10.0,\N,\N,\N
+506,95,Nigel,Mansell,British,German Grand Prix,1992,1992-07-26,298,10,45,1:18:22.032,10.0,\N,\N,\N
+507,95,Nigel,Mansell,British,Portuguese Grand Prix,1992,1992-09-27,302,27,71,1:34:46.659,10.0,\N,\N,\N
+508,95,Nigel,Mansell,British,Australian Grand Prix,1994,1994-11-13,272,29,81,1:47:51.4,10.0,\N,\N,\N
+509,102,Ayrton,Senna,Brazilian,Portuguese Grand Prix,1985,1985-04-21,421,27,67,2:00:28.006,9.0,\N,\N,\N
+510,102,Ayrton,Senna,Brazilian,Belgian Grand Prix,1985,1985-09-15,432,13,43,1:34:19.893,9.0,\N,\N,\N
+511,102,Ayrton,Senna,Brazilian,Spanish Grand Prix,1986,1986-04-13,405,26,72,1:48:47.735,9.0,\N,\N,\N
+512,102,Ayrton,Senna,Brazilian,Detroit Grand Prix,1986,1986-06-22,410,37,63,1:51:12.847,9.0,\N,\N,\N
+513,102,Ayrton,Senna,Brazilian,Monaco Grand Prix,1987,1987-05-31,391,6,78,1:57:54.085,9.0,\N,\N,\N
+514,102,Ayrton,Senna,Brazilian,Detroit Grand Prix,1987,1987-06-21,392,37,63,1:50:16.358,9.0,\N,\N,\N
+515,102,Ayrton,Senna,Brazilian,San Marino Grand Prix,1988,1988-05-01,373,21,60,1:32:41.264,9.0,\N,\N,\N
+516,102,Ayrton,Senna,Brazilian,Canadian Grand Prix,1988,1988-06-12,376,7,69,1:39:46.618,9.0,\N,\N,\N
+517,102,Ayrton,Senna,Brazilian,Detroit Grand Prix,1988,1988-06-19,377,37,63,1:54:56.035,9.0,\N,\N,\N
+518,102,Ayrton,Senna,Brazilian,British Grand Prix,1988,1988-07-10,379,9,65,1:33:16.367,9.0,\N,\N,\N
+519,102,Ayrton,Senna,Brazilian,German Grand Prix,1988,1988-07-24,380,10,44,1:32:54.188,9.0,\N,\N,\N
+520,102,Ayrton,Senna,Brazilian,Hungarian Grand Prix,1988,1988-08-07,381,11,76,1:57:47.081,9.0,\N,\N,\N
+521,102,Ayrton,Senna,Brazilian,Belgian Grand Prix,1988,1988-08-28,382,13,43,1:28:00.549,9.0,\N,\N,\N
+522,102,Ayrton,Senna,Brazilian,Japanese Grand Prix,1988,1988-10-30,386,22,51,1:33:26.173,9.0,\N,\N,\N
+523,102,Ayrton,Senna,Brazilian,San Marino Grand Prix,1989,1989-04-23,357,21,58,1:26:51.245,9.0,\N,\N,\N
+524,102,Ayrton,Senna,Brazilian,Monaco Grand Prix,1989,1989-05-07,358,6,77,1:53:33.251,9.0,\N,\N,\N
+525,102,Ayrton,Senna,Brazilian,Mexican Grand Prix,1989,1989-05-28,359,32,69,1:35:21.431,9.0,\N,\N,\N
+526,102,Ayrton,Senna,Brazilian,German Grand Prix,1989,1989-07-30,364,10,45,1:21:43.302,9.0,\N,\N,\N
+527,102,Ayrton,Senna,Brazilian,Belgian Grand Prix,1989,1989-08-27,366,13,44,1:40:54.196,9.0,\N,\N,\N
+528,102,Ayrton,Senna,Brazilian,Spanish Grand Prix,1989,1989-10-01,369,26,73,1:47:48.264,9.0,\N,\N,\N
+529,102,Ayrton,Senna,Brazilian,United States Grand Prix,1990,1990-03-11,321,33,72,1:52:32.829,9.0,\N,\N,\N
+530,102,Ayrton,Senna,Brazilian,Monaco Grand Prix,1990,1990-05-27,324,6,78,1:52:46.982,9.0,\N,\N,\N
+531,102,Ayrton,Senna,Brazilian,Canadian Grand Prix,1990,1990-06-10,325,7,70,1:42:56.400,9.0,\N,\N,\N
+532,102,Ayrton,Senna,Brazilian,German Grand Prix,1990,1990-07-29,329,10,45,1:20:47.164,9.0,\N,\N,\N
+533,102,Ayrton,Senna,Brazilian,Belgian Grand Prix,1990,1990-08-26,331,13,44,1:26:31.997,9.0,\N,\N,\N
+534,102,Ayrton,Senna,Brazilian,Italian Grand Prix,1990,1990-09-09,332,14,53,1:17:57.878,9.0,\N,\N,\N
+535,102,Ayrton,Senna,Brazilian,United States Grand Prix,1991,1991-03-10,305,33,81,2:00:47.828,10.0,\N,\N,\N
+536,102,Ayrton,Senna,Brazilian,Brazilian Grand Prix,1991,1991-03-24,306,18,71,1:38:28.128,10.0,\N,\N,\N
+537,102,Ayrton,Senna,Brazilian,San Marino Grand Prix,1991,1991-04-28,307,21,61,1:35:14.750,10.0,\N,\N,\N
+538,102,Ayrton,Senna,Brazilian,Monaco Grand Prix,1991,1991-05-12,308,6,78,1:53:02.334,10.0,\N,\N,\N
+539,102,Ayrton,Senna,Brazilian,Hungarian Grand Prix,1991,1991-08-11,314,11,77,1:49:12.796,10.0,\N,\N,\N
+540,102,Ayrton,Senna,Brazilian,Belgian Grand Prix,1991,1991-08-25,315,13,44,1:27:17.669,10.0,\N,\N,\N
+541,102,Ayrton,Senna,Brazilian,Australian Grand Prix,1991,1991-11-03,320,29,14,24:34.899,5.0,\N,\N,\N
+542,102,Ayrton,Senna,Brazilian,Monaco Grand Prix,1992,1992-05-31,294,6,78,1:50:59.372,10.0,\N,\N,\N
+543,102,Ayrton,Senna,Brazilian,Hungarian Grand Prix,1992,1992-08-16,299,11,77,1:46:19.216,10.0,\N,\N,\N
+544,102,Ayrton,Senna,Brazilian,Italian Grand Prix,1992,1992-09-13,301,14,53,1:18:15.349,10.0,\N,\N,\N
+545,102,Ayrton,Senna,Brazilian,Brazilian Grand Prix,1993,1993-03-28,274,18,71,1:51:15.485,10.0,\N,\N,\N
+546,102,Ayrton,Senna,Brazilian,European Grand Prix,1993,1993-04-11,275,31,76,1:50:46.570,10.0,\N,\N,\N
+547,102,Ayrton,Senna,Brazilian,Monaco Grand Prix,1993,1993-05-23,278,6,78,1:52:10.947,10.0,\N,\N,\N
+548,102,Ayrton,Senna,Brazilian,Japanese Grand Prix,1993,1993-10-24,287,22,53,1:40:27.912,10.0,\N,\N,\N
+549,102,Ayrton,Senna,Brazilian,Australian Grand Prix,1993,1993-11-07,288,29,79,1:43:27.476,10.0,\N,\N,\N
+550,105,Michele,Alboreto,Italian,Caesars Palace Grand Prix,1982,1982-09-25,482,44,75,1:41:56.888,9.0,\N,\N,\N
+551,105,Michele,Alboreto,Italian,Detroit Grand Prix,1983,1983-06-05,458,37,60,1:50:53.669,9.0,\N,\N,\N
+552,105,Michele,Alboreto,Italian,Belgian Grand Prix,1984,1984-04-29,438,40,70,1:36:32.048,9.0,\N,\N,\N
+553,105,Michele,Alboreto,Italian,Canadian Grand Prix,1985,1985-06-16,424,7,70,1:46:01.813,9.0,\N,\N,\N
+554,105,Michele,Alboreto,Italian,German Grand Prix,1985,1985-08-04,428,20,67,1:35:31.337,9.0,\N,\N,\N
+555,117,Alain,Prost,French,French Grand Prix,1981,1981-07-05,490,41,80,1:35:48.13,9.0,\N,\N,\N
+556,117,Alain,Prost,French,Dutch Grand Prix,1981,1981-08-30,494,39,72,1:40:22.43,9.0,\N,\N,\N
+557,117,Alain,Prost,French,Italian Grand Prix,1981,1981-09-13,495,14,52,1:26:36.897,9.0,\N,\N,\N
+558,117,Alain,Prost,French,South African Grand Prix,1982,1982-01-23,467,30,77,1:32:08.401,9.0,\N,\N,\N
+559,117,Alain,Prost,French,Brazilian Grand Prix,1982,1982-03-21,468,36,63,1:44:33.134,9.0,\N,\N,\N
+560,117,Alain,Prost,French,French Grand Prix,1983,1983-04-17,454,34,54,1:34:13.913,9.0,\N,\N,\N
+561,117,Alain,Prost,French,Belgian Grand Prix,1983,1983-05-22,457,13,40,1:27:11.502,9.0,\N,\N,\N
+562,117,Alain,Prost,French,British Grand Prix,1983,1983-07-16,460,9,67,1:24:39.780,9.0,\N,\N,\N
+563,117,Alain,Prost,French,Austrian Grand Prix,1983,1983-08-14,462,70,53,1:24:32.745,9.0,\N,\N,\N
+564,117,Alain,Prost,French,Brazilian Grand Prix,1984,1984-03-25,436,36,61,1:42:34.492,9.0,\N,\N,\N
+565,117,Alain,Prost,French,San Marino Grand Prix,1984,1984-05-06,439,21,60,1:36:53.679,9.0,\N,\N,\N
+566,117,Alain,Prost,French,Monaco Grand Prix,1984,1984-06-03,441,6,31,1:01:07.740,4.5,\N,\N,\N
+567,117,Alain,Prost,French,German Grand Prix,1984,1984-08-05,446,10,44,1:24:43.210,9.0,\N,\N,\N
+568,117,Alain,Prost,French,Dutch Grand Prix,1984,1984-08-26,448,39,71,1:37:21.468,9.0,\N,\N,\N
+569,117,Alain,Prost,French,European Grand Prix,1984,1984-10-07,450,20,67,1:35:13.284,9.0,\N,\N,\N
+570,117,Alain,Prost,French,Portuguese Grand Prix,1984,1984-10-21,451,27,70,1:41:11.753,9.0,\N,\N,\N
+571,117,Alain,Prost,French,Brazilian Grand Prix,1985,1985-04-07,420,36,61,1:41:26.115,9.0,\N,\N,\N
+572,117,Alain,Prost,French,Monaco Grand Prix,1985,1985-05-19,423,6,78,1:51:58.034,9.0,\N,\N,\N
+573,117,Alain,Prost,French,British Grand Prix,1985,1985-07-21,427,9,65,1:18:10.436,9.0,\N,\N,\N
+574,117,Alain,Prost,French,Austrian Grand Prix,1985,1985-08-18,429,70,52,1:20:12.583,9.0,\N,\N,\N
+575,117,Alain,Prost,French,Italian Grand Prix,1985,1985-09-08,431,14,51,1:17:59.451,9.0,\N,\N,\N
+576,117,Alain,Prost,French,San Marino Grand Prix,1986,1986-04-27,406,21,60,1:32:28.408,9.0,\N,\N,\N
+577,117,Alain,Prost,French,Monaco Grand Prix,1986,1986-05-11,407,6,78,1:55:41.060,9.0,\N,\N,\N
+578,117,Alain,Prost,French,Austrian Grand Prix,1986,1986-08-17,415,70,52,1:21:22.531,9.0,\N,\N,\N
+579,117,Alain,Prost,French,Australian Grand Prix,1986,1986-10-26,419,29,82,1:54:20.388,9.0,\N,\N,\N
+580,117,Alain,Prost,French,Brazilian Grand Prix,1987,1987-04-12,388,36,61,1:39:45.141,9.0,\N,\N,\N
+581,117,Alain,Prost,French,Belgian Grand Prix,1987,1987-05-17,390,13,43,1:27:03.217,9.0,\N,\N,\N
+582,117,Alain,Prost,French,Portuguese Grand Prix,1987,1987-09-20,399,27,70,1:37:03.906,9.0,\N,\N,\N
+583,117,Alain,Prost,French,Brazilian Grand Prix,1988,1988-04-03,372,36,60,1:36:06.857,9.0,\N,\N,\N
+584,117,Alain,Prost,French,Monaco Grand Prix,1988,1988-05-15,374,6,78,1:57:17.077,9.0,\N,\N,\N
+585,117,Alain,Prost,French,Mexican Grand Prix,1988,1988-05-29,375,32,67,1:30:15.737,9.0,\N,\N,\N
+586,117,Alain,Prost,French,French Grand Prix,1988,1988-07-03,378,34,80,1:37:37.328,9.0,\N,\N,\N
+587,117,Alain,Prost,French,Portuguese Grand Prix,1988,1988-09-25,384,27,70,1:37:40.958,9.0,\N,\N,\N
+588,117,Alain,Prost,French,Spanish Grand Prix,1988,1988-10-02,385,26,72,1:48:43.851,9.0,\N,\N,\N
+589,117,Alain,Prost,French,Australian Grand Prix,1988,1988-11-13,387,29,82,1:53:14.676,9.0,\N,\N,\N
+590,117,Alain,Prost,French,United States Grand Prix,1989,1989-06-04,360,33,75,2:01:33.133,9.0,\N,\N,\N
+591,117,Alain,Prost,French,French Grand Prix,1989,1989-07-09,362,34,80,1:38:29.411,9.0,\N,\N,\N
+592,117,Alain,Prost,French,British Grand Prix,1989,1989-07-16,363,9,64,1:19:22.131,9.0,\N,\N,\N
+593,117,Alain,Prost,French,Italian Grand Prix,1989,1989-09-10,367,14,53,1:19:27.550,9.0,\N,\N,\N
+594,117,Alain,Prost,French,Brazilian Grand Prix,1990,1990-03-25,322,18,71,1:37:21.258,9.0,\N,\N,\N
+595,117,Alain,Prost,French,Mexican Grand Prix,1990,1990-06-24,326,32,69,1:32:35.783,9.0,\N,\N,\N
+596,117,Alain,Prost,French,French Grand Prix,1990,1990-07-08,327,34,80,1:33:29.606,9.0,\N,\N,\N
+597,117,Alain,Prost,French,British Grand Prix,1990,1990-07-15,328,9,64,1:18:30.999,9.0,\N,\N,\N
+598,117,Alain,Prost,French,Spanish Grand Prix,1990,1990-09-30,334,26,73,1:48:01.461,9.0,\N,\N,\N
+599,117,Alain,Prost,French,South African Grand Prix,1993,1993-03-14,273,30,72,1:38:45.082,10.0,\N,\N,\N
+600,117,Alain,Prost,French,San Marino Grand Prix,1993,1993-04-25,276,21,61,1:33:20.413,10.0,\N,\N,\N
+601,117,Alain,Prost,French,Spanish Grand Prix,1993,1993-05-09,277,4,65,1:32:27.685,10.0,\N,\N,\N
+602,117,Alain,Prost,French,Canadian Grand Prix,1993,1993-06-13,279,7,69,1:36:41.822,10.0,\N,\N,\N
+603,117,Alain,Prost,French,French Grand Prix,1993,1993-07-04,280,8,72,1:38:35.241,10.0,\N,\N,\N
+604,117,Alain,Prost,French,British Grand Prix,1993,1993-07-11,281,9,59,1:25:38.189,10.0,\N,\N,\N
+605,117,Alain,Prost,French,German Grand Prix,1993,1993-07-25,282,10,45,1:18:40.885,10.0,\N,\N,\N
+606,119,Riccardo,Patrese,Italian,Monaco Grand Prix,1982,1982-05-23,472,6,76,1:54:11.259,9.0,\N,\N,\N
+607,119,Riccardo,Patrese,Italian,South African Grand Prix,1983,1983-10-15,466,30,77,1:33:25.708,9.0,\N,\N,\N
+608,119,Riccardo,Patrese,Italian,San Marino Grand Prix,1990,1990-05-13,323,21,61,1:30:55.478,9.0,\N,\N,\N
+609,119,Riccardo,Patrese,Italian,Mexican Grand Prix,1991,1991-06-16,310,32,67,1:29:52.205,10.0,\N,\N,\N
+610,119,Riccardo,Patrese,Italian,Portuguese Grand Prix,1991,1991-09-22,317,27,71,1:35:42.304,10.0,\N,\N,\N
+611,119,Riccardo,Patrese,Italian,Japanese Grand Prix,1992,1992-10-25,303,22,53,1:33:09.533,10.0,\N,\N,\N
+612,123,Thierry,Boutsen,Belgian,Canadian Grand Prix,1989,1989-06-18,361,7,69,2:01:24.073,9.0,\N,\N,\N
+613,123,Thierry,Boutsen,Belgian,Australian Grand Prix,1989,1989-11-05,371,29,70,2:00:17.421,9.0,\N,\N,\N
+614,123,Thierry,Boutsen,Belgian,Hungarian Grand Prix,1990,1990-08-12,330,11,77,1:49:30.597,9.0,\N,\N,\N
+615,137,Nelson,Piquet,Brazilian,United States Grand Prix West,1980,1980-03-30,501,43,80,1:50:19.4,9.0,\N,\N,\N
+616,137,Nelson,Piquet,Brazilian,Dutch Grand Prix,1980,1980-08-31,508,39,72,1:38:13.83,9.0,\N,\N,\N
+617,137,Nelson,Piquet,Brazilian,Italian Grand Prix,1980,1980-09-14,509,21,60,1:38:07.52,9.0,\N,\N,\N
+618,137,Nelson,Piquet,Brazilian,Argentine Grand Prix,1981,1981-04-12,485,25,53,1:34:32.74,9.0,\N,\N,\N
+619,137,Nelson,Piquet,Brazilian,San Marino Grand Prix,1981,1981-05-03,486,21,60,1:51:23.97,9.0,\N,\N,\N
+620,137,Nelson,Piquet,Brazilian,German Grand Prix,1981,1981-08-02,492,10,45,1:25:55.60,9.0,\N,\N,\N
+621,137,Nelson,Piquet,Brazilian,Canadian Grand Prix,1982,1982-06-13,474,7,70,1:46:39.577,9.0,\N,\N,\N
+622,137,Nelson,Piquet,Brazilian,Brazilian Grand Prix,1983,1983-03-13,452,36,63,1:48:27.731,9.0,\N,\N,\N
+623,137,Nelson,Piquet,Brazilian,Italian Grand Prix,1983,1983-09-11,464,14,52,1:23:10.880,9.0,\N,\N,\N
+624,137,Nelson,Piquet,Brazilian,European Grand Prix,1983,1983-09-25,465,38,76,1:36:45.865,9.0,\N,\N,\N
+625,137,Nelson,Piquet,Brazilian,Canadian Grand Prix,1984,1984-06-17,442,7,70,1:46:23.748,9.0,\N,\N,\N
+626,137,Nelson,Piquet,Brazilian,Detroit Grand Prix,1984,1984-06-24,443,37,63,1:55:41.842,9.0,\N,\N,\N
+627,137,Nelson,Piquet,Brazilian,French Grand Prix,1985,1985-07-07,426,34,53,1:31:46.266,9.0,\N,\N,\N
+628,137,Nelson,Piquet,Brazilian,Brazilian Grand Prix,1986,1986-03-23,404,36,61,1:39:32.583,9.0,\N,\N,\N
+629,137,Nelson,Piquet,Brazilian,German Grand Prix,1986,1986-07-27,413,10,44,1:22:08.263,9.0,\N,\N,\N
+630,137,Nelson,Piquet,Brazilian,Hungarian Grand Prix,1986,1986-08-10,414,11,76,2:00:34.508,9.0,\N,\N,\N
+631,137,Nelson,Piquet,Brazilian,Italian Grand Prix,1986,1986-09-07,416,14,51,1:17:42.889,9.0,\N,\N,\N
+632,137,Nelson,Piquet,Brazilian,German Grand Prix,1987,1987-07-26,395,10,44,1:21:25.091,9.0,\N,\N,\N
+633,137,Nelson,Piquet,Brazilian,Hungarian Grand Prix,1987,1987-08-09,396,11,76,1:59:26.793,9.0,\N,\N,\N
+634,137,Nelson,Piquet,Brazilian,Italian Grand Prix,1987,1987-09-06,398,14,50,1:14:47.707,9.0,\N,\N,\N
+635,137,Nelson,Piquet,Brazilian,Japanese Grand Prix,1990,1990-10-21,335,22,53,1:34:36.824,9.0,\N,\N,\N
+636,137,Nelson,Piquet,Brazilian,Australian Grand Prix,1990,1990-11-04,336,29,81,1:49:44.570,9.0,\N,\N,\N
+637,137,Nelson,Piquet,Brazilian,Canadian Grand Prix,1991,1991-06-02,309,7,69,1:38:51.490,10.0,\N,\N,\N
+638,145,Alessandro,Nannini,Italian,Japanese Grand Prix,1989,1989-10-22,370,22,53,1:35:06.277,9.0,\N,\N,\N
+639,163,René,Arnoux,French,Brazilian Grand Prix,1980,1980-01-27,499,18,40,1:40:01.33,9.0,\N,\N,\N
+640,163,René,Arnoux,French,South African Grand Prix,1980,1980-03-01,500,30,78,1:36:52.54,9.0,\N,\N,\N
+641,163,René,Arnoux,French,French Grand Prix,1982,1982-07-25,477,34,54,1:33:33.217,9.0,\N,\N,\N
+642,163,René,Arnoux,French,Italian Grand Prix,1982,1982-09-12,481,14,52,1:22:25.734,9.0,\N,\N,\N
+643,163,René,Arnoux,French,Canadian Grand Prix,1983,1983-06-12,459,7,70,1:48:31.838,9.0,\N,\N,\N
+644,163,René,Arnoux,French,German Grand Prix,1983,1983-08-07,461,10,45,1:27:10.319,9.0,\N,\N,\N
+645,163,René,Arnoux,French,Dutch Grand Prix,1983,1983-08-28,463,39,72,1:38:41.950,9.0,\N,\N,\N
+646,172,Jacques,Laffite,French,Swedish Grand Prix,1977,1977-06-19,550,47,72,1:46:56.4,9.0,\N,\N,\N
+647,172,Jacques,Laffite,French,Argentine Grand Prix,1979,1979-01-21,512,25,53,1:36:03.21,9.0,\N,\N,\N
+648,172,Jacques,Laffite,French,Brazilian Grand Prix,1979,1979-02-04,513,18,40,1:40:09.64,9.0,\N,\N,\N
+649,172,Jacques,Laffite,French,German Grand Prix,1980,1980-08-10,506,10,45,1:23:59.73,9.0,\N,\N,\N
+650,172,Jacques,Laffite,French,Austrian Grand Prix,1981,1981-08-16,493,70,53,1:27:36.47,9.0,\N,\N,\N
+651,172,Jacques,Laffite,French,Canadian Grand Prix,1981,1981-09-27,496,7,63,2:01:25.20,9.0,\N,\N,\N
+652,173,Elio,de Angelis,Italian,Austrian Grand Prix,1982,1982-08-15,479,70,53,1:25:02.212,9.0,\N,\N,\N
+653,173,Elio,de Angelis,Italian,San Marino Grand Prix,1985,1985-05-05,422,21,60,1:34:35.955,9.0,\N,\N,\N
+654,175,Patrick,Tambay,French,German Grand Prix,1982,1982-08-08,478,10,45,1:27:25.178,9.0,\N,\N,\N
+655,175,Patrick,Tambay,French,San Marino Grand Prix,1983,1983-05-01,455,21,60,1:37:52.460,9.0,\N,\N,\N
+656,177,Keke,Rosberg,Finnish,Swiss Grand Prix,1982,1982-08-29,480,41,80,1:32:41.087,9.0,\N,\N,\N
+657,177,Keke,Rosberg,Finnish,Monaco Grand Prix,1983,1983-05-15,456,6,76,1:56:38.121,9.0,\N,\N,\N
+658,177,Keke,Rosberg,Finnish,Dallas Grand Prix,1984,1984-07-08,444,42,67,2:01:22.617,9.0,\N,\N,\N
+659,177,Keke,Rosberg,Finnish,Detroit Grand Prix,1985,1985-06-23,425,37,63,1:55:39.851,9.0,\N,\N,\N
+660,177,Keke,Rosberg,Finnish,Australian Grand Prix,1985,1985-11-03,435,29,82,2:00:40.473,9.0,\N,\N,\N
+661,178,Alan,Jones,Australian,Austrian Grand Prix,1977,1977-08-14,554,70,54,1:37:16.49,9.0,\N,\N,\N
+662,178,Alan,Jones,Australian,German Grand Prix,1979,1979-07-29,521,10,45,1:24:48.83,9.0,\N,\N,\N
+663,178,Alan,Jones,Australian,Austrian Grand Prix,1979,1979-08-12,522,70,54,1:27:38.01,9.0,\N,\N,\N
+664,178,Alan,Jones,Australian,Dutch Grand Prix,1979,1979-08-26,523,39,75,1:41:19.775,9.0,\N,\N,\N
+665,178,Alan,Jones,Australian,Canadian Grand Prix,1979,1979-09-30,525,7,72,1:52:06.892,9.0,\N,\N,\N
+666,178,Alan,Jones,Australian,Argentine Grand Prix,1980,1980-01-13,498,25,53,1:43:24.38,9.0,\N,\N,\N
+667,178,Alan,Jones,Australian,French Grand Prix,1980,1980-06-29,504,34,54,1:32:43.4,9.0,\N,\N,\N
+668,178,Alan,Jones,Australian,British Grand Prix,1980,1980-07-13,505,38,76,1:34:49.228,9.0,\N,\N,\N
+669,178,Alan,Jones,Australian,Canadian Grand Prix,1980,1980-09-28,510,7,70,1:46:45.53,9.0,\N,\N,\N
+670,178,Alan,Jones,Australian,United States Grand Prix,1980,1980-10-05,511,46,59,1:34:36.05,9.0,\N,\N,\N
+671,178,Alan,Jones,Australian,United States Grand Prix West,1981,1981-03-15,483,43,80,1:50:41.33,9.0,\N,\N,\N
+672,178,Alan,Jones,Australian,Caesars Palace Grand Prix,1981,1981-10-17,497,44,75,1:44:09.077,9.0,\N,\N,\N
+673,182,Niki,Lauda,Austrian,Spanish Grand Prix,1974,1974-04-28,593,45,84,2:00:29.56,9.0,\N,\N,\N
+674,182,Niki,Lauda,Austrian,Dutch Grand Prix,1974,1974-06-23,597,39,75,1:43:00.35,9.0,\N,\N,\N
+675,182,Niki,Lauda,Austrian,Monaco Grand Prix,1975,1975-05-11,580,6,75,2:01:21.31,9.0,\N,\N,\N
+676,182,Niki,Lauda,Austrian,Belgian Grand Prix,1975,1975-05-25,581,40,70,1:43:53.98,9.0,\N,\N,\N
+677,182,Niki,Lauda,Austrian,Swedish Grand Prix,1975,1975-06-08,582,47,80,1:59:18.319,9.0,\N,\N,\N
+678,182,Niki,Lauda,Austrian,French Grand Prix,1975,1975-07-06,584,34,54,1:40:18.84,9.0,\N,\N,\N
+679,182,Niki,Lauda,Austrian,United States Grand Prix,1975,1975-10-05,589,46,59,1:42:58.175,9.0,\N,\N,\N
+680,182,Niki,Lauda,Austrian,Brazilian Grand Prix,1976,1976-01-25,560,18,40,1:45:16.78,9.0,\N,\N,\N
+681,182,Niki,Lauda,Austrian,South African Grand Prix,1976,1976-03-06,561,30,78,1:42:18.4,9.0,\N,\N,\N
+682,182,Niki,Lauda,Austrian,Belgian Grand Prix,1976,1976-05-16,564,40,70,1:42:53.23,9.0,\N,\N,\N
+683,182,Niki,Lauda,Austrian,Monaco Grand Prix,1976,1976-05-30,565,6,78,1:59:51.47,9.0,\N,\N,\N
+684,182,Niki,Lauda,Austrian,British Grand Prix,1976,1976-07-18,568,38,76,1:44:19.66,9.0,\N,\N,\N
+685,182,Niki,Lauda,Austrian,South African Grand Prix,1977,1977-03-05,545,30,78,1:42:21.6,9.0,\N,\N,\N
+686,182,Niki,Lauda,Austrian,German Grand Prix,1977,1977-07-31,553,10,47,1:31:49.3,9.0,\N,\N,\N
+687,182,Niki,Lauda,Austrian,Dutch Grand Prix,1977,1977-08-28,555,39,75,1:41:45.93,9.0,\N,\N,\N
+688,182,Niki,Lauda,Austrian,Swedish Grand Prix,1978,1978-06-17,534,47,70,1:41:00.606,9.0,\N,\N,\N
+689,182,Niki,Lauda,Austrian,Italian Grand Prix,1978,1978-09-10,540,14,40,1:07:04.54,9.0,\N,\N,\N
+690,182,Niki,Lauda,Austrian,United States Grand Prix West,1982,1982-04-04,469,43,75,1:58:25.318,9.0,\N,\N,\N
+691,182,Niki,Lauda,Austrian,British Grand Prix,1982,1982-07-18,476,38,76,1:35:33.812,9.0,\N,\N,\N
+692,182,Niki,Lauda,Austrian,South African Grand Prix,1984,1984-04-07,437,30,75,1:29:23.430,9.0,\N,\N,\N
+693,182,Niki,Lauda,Austrian,French Grand Prix,1984,1984-05-20,440,41,79,1:31:11.951,9.0,\N,\N,\N
+694,182,Niki,Lauda,Austrian,British Grand Prix,1984,1984-07-22,445,38,71,1:29:28.532,9.0,\N,\N,\N
+695,182,Niki,Lauda,Austrian,Austrian Grand Prix,1984,1984-08-19,447,70,51,1:21:12.851,9.0,\N,\N,\N
+696,182,Niki,Lauda,Austrian,Italian Grand Prix,1984,1984-09-09,449,14,51,1:20:29.065,9.0,\N,\N,\N
+697,182,Niki,Lauda,Austrian,Dutch Grand Prix,1985,1985-08-25,430,39,70,1:32:29.263,9.0,\N,\N,\N
+698,187,John,Watson,British,Austrian Grand Prix,1976,1976-08-15,570,70,54,1:30:07.86,9.0,\N,\N,\N
+699,187,John,Watson,British,British Grand Prix,1981,1981-07-18,491,9,68,1:26:54.80,9.0,\N,\N,\N
+700,187,John,Watson,British,Belgian Grand Prix,1982,1982-05-09,471,40,70,1:35:41.995,9.0,\N,\N,\N
+701,187,John,Watson,British,Detroit Grand Prix,1982,1982-06-06,473,37,62,1:58:41.043,9.0,\N,\N,\N
+702,187,John,Watson,British,United States Grand Prix West,1983,1983-03-27,453,43,75,1:53:34.889,9.0,\N,\N,\N
+703,199,Carlos,Reutemann,Argentine,South African Grand Prix,1974,1974-03-30,592,30,78,1:42:40.96,9.0,\N,\N,\N
+704,199,Carlos,Reutemann,Argentine,Austrian Grand Prix,1974,1974-08-18,601,70,54,1:28:44.72,9.0,\N,\N,\N
+705,199,Carlos,Reutemann,Argentine,United States Grand Prix,1974,1974-10-06,604,46,59,1:40:21.439,9.0,\N,\N,\N
+706,199,Carlos,Reutemann,Argentine,German Grand Prix,1975,1975-08-03,586,20,14,1:41:14.1,9.0,\N,\N,\N
+707,199,Carlos,Reutemann,Argentine,Brazilian Grand Prix,1977,1977-01-23,544,18,40,1:45:07.72,9.0,\N,\N,\N
+708,199,Carlos,Reutemann,Argentine,Brazilian Grand Prix,1978,1978-01-29,528,36,63,1:49:59.86,9.0,\N,\N,\N
+709,199,Carlos,Reutemann,Argentine,United States Grand Prix West,1978,1978-04-02,530,43,80,1:52:01.301,9.0,\N,\N,\N
+710,199,Carlos,Reutemann,Argentine,British Grand Prix,1978,1978-07-16,536,38,76,1:42:12.39,9.0,\N,\N,\N
+711,199,Carlos,Reutemann,Argentine,United States Grand Prix,1978,1978-10-01,541,46,59,1:40:48.800,9.0,\N,\N,\N
+712,199,Carlos,Reutemann,Argentine,Monaco Grand Prix,1980,1980-05-18,503,6,76,1:55:34.365,9.0,\N,\N,\N
+713,199,Carlos,Reutemann,Argentine,Brazilian Grand Prix,1981,1981-03-29,484,36,62,2:00:23.66,9.0,\N,\N,\N
+714,199,Carlos,Reutemann,Argentine,Belgian Grand Prix,1981,1981-05-17,487,40,54,1:16:31.61,9.0,\N,\N,\N
+715,200,Jochen,Mass,German,Spanish Grand Prix,1975,1975-04-27,579,49,29,42:53.7,4.5,\N,\N,\N
+716,202,Didier,Pironi,French,Belgian Grand Prix,1980,1980-05-04,502,40,72,1:38:47.4,9.0,\N,\N,\N
+717,202,Didier,Pironi,French,San Marino Grand Prix,1982,1982-04-25,470,21,60,1:36:38.887,9.0,\N,\N,\N
+718,202,Didier,Pironi,French,Dutch Grand Prix,1982,1982-07-03,475,39,72,1:38:03.254,9.0,\N,\N,\N
+719,203,Gilles,Villeneuve,Canadian,Canadian Grand Prix,1978,1978-10-08,542,7,70,1:57:49.196,9.0,\N,\N,\N
+720,203,Gilles,Villeneuve,Canadian,South African Grand Prix,1979,1979-03-03,514,30,78,1:41:49.96,9.0,\N,\N,\N
+721,203,Gilles,Villeneuve,Canadian,United States Grand Prix West,1979,1979-04-08,515,43,80,1:50:25.40,9.0,\N,\N,\N
+722,203,Gilles,Villeneuve,Canadian,United States Grand Prix,1979,1979-10-07,526,46,59,1:52:17.734,9.0,\N,\N,\N
+723,203,Gilles,Villeneuve,Canadian,Monaco Grand Prix,1981,1981-05-31,488,6,76,1:54:23.38,9.0,\N,\N,\N
+724,203,Gilles,Villeneuve,Canadian,Spanish Grand Prix,1981,1981-06-21,489,45,80,1:46:35.01,9.0,\N,\N,\N
+725,207,Mario,Andretti,American,South African Grand Prix,1971,1971-03-06,632,30,79,1:47:35.5,9.0,\N,\N,\N
+726,207,Mario,Andretti,American,Japanese Grand Prix,1976,1976-10-24,575,16,73,1:43:58.86,9.0,\N,\N,\N
+727,207,Mario,Andretti,American,United States Grand Prix West,1977,1977-04-03,546,43,80,1:51:35.470,9.0,\N,\N,\N
+728,207,Mario,Andretti,American,Spanish Grand Prix,1977,1977-05-08,547,45,75,1:42:52.220,9.0,\N,\N,\N
+729,207,Mario,Andretti,American,French Grand Prix,1977,1977-07-03,551,41,80,1:39:40.13,9.0,\N,\N,\N
+730,207,Mario,Andretti,American,Italian Grand Prix,1977,1977-09-11,556,14,52,1:27:50.30,9.0,\N,\N,\N
+731,207,Mario,Andretti,American,Argentine Grand Prix,1978,1978-01-15,527,25,52,1:37:04.47,9.0,\N,\N,\N
+732,207,Mario,Andretti,American,Belgian Grand Prix,1978,1978-05-21,532,40,70,1:39:52.02,9.0,\N,\N,\N
+733,207,Mario,Andretti,American,Spanish Grand Prix,1978,1978-06-04,533,45,75,1:41:47.06,9.0,\N,\N,\N
+734,207,Mario,Andretti,American,French Grand Prix,1978,1978-07-02,535,34,54,1:38:51.92,9.0,\N,\N,\N
+735,207,Mario,Andretti,American,German Grand Prix,1978,1978-07-30,537,10,45,1:28:00.90,9.0,\N,\N,\N
+736,207,Mario,Andretti,American,Dutch Grand Prix,1978,1978-08-27,539,39,75,1:41:04.23,9.0,\N,\N,\N
+737,219,Jean-Pierre,Jabouille,French,French Grand Prix,1979,1979-07-01,519,41,80,1:35:20.42,9.0,\N,\N,\N
+738,219,Jean-Pierre,Jabouille,French,Austrian Grand Prix,1980,1980-08-17,507,70,54,1:26:15.73,9.0,\N,\N,\N
+739,221,Patrick,Depailler,French,Monaco Grand Prix,1978,1978-05-07,531,6,75,1:55:14.66,9.0,\N,\N,\N
+740,221,Patrick,Depailler,French,Spanish Grand Prix,1979,1979-04-29,516,45,75,1:39:11.84,9.0,\N,\N,\N
+741,222,Jody,Scheckter,South African,Swedish Grand Prix,1974,1974-06-09,596,47,80,1:58:31.391,9.0,\N,\N,\N
+742,222,Jody,Scheckter,South African,British Grand Prix,1974,1974-07-20,599,38,75,1:43:02.2,9.0,\N,\N,\N
+743,222,Jody,Scheckter,South African,South African Grand Prix,1975,1975-03-01,578,30,78,1:43:16.90,9.0,\N,\N,\N
+744,222,Jody,Scheckter,South African,Swedish Grand Prix,1976,1976-06-13,566,47,72,1:46:53.729,9.0,\N,\N,\N
+745,222,Jody,Scheckter,South African,Argentine Grand Prix,1977,1977-01-09,543,25,53,1:40:11.19,9.0,\N,\N,\N
+746,222,Jody,Scheckter,South African,Monaco Grand Prix,1977,1977-05-22,548,6,76,1:57:52.77,9.0,\N,\N,\N
+747,222,Jody,Scheckter,South African,Canadian Grand Prix,1977,1977-10-09,558,48,80,1:40:00.0,9.0,\N,\N,\N
+748,222,Jody,Scheckter,South African,Belgian Grand Prix,1979,1979-05-13,517,40,70,1:39:59.53,9.0,\N,\N,\N
+749,222,Jody,Scheckter,South African,Monaco Grand Prix,1979,1979-05-27,518,6,76,1:55:22.48,9.0,\N,\N,\N
+750,222,Jody,Scheckter,South African,Italian Grand Prix,1979,1979-09-09,524,14,50,1:22:00.22,9.0,\N,\N,\N
+751,223,Clay,Regazzoni,Swiss,Italian Grand Prix,1970,1970-09-06,652,14,68,1:39:07.1,9.0,\N,\N,\N
+752,223,Clay,Regazzoni,Swiss,German Grand Prix,1974,1974-08-04,600,20,14,1:41:35.0,9.0,\N,\N,\N
+753,223,Clay,Regazzoni,Swiss,Italian Grand Prix,1975,1975-09-07,588,14,52,1:22:42.6,9.0,\N,\N,\N
+754,223,Clay,Regazzoni,Swiss,United States Grand Prix West,1976,1976-03-28,562,43,80,1:53:18.471,9.0,\N,\N,\N
+755,223,Clay,Regazzoni,Swiss,British Grand Prix,1979,1979-07-14,520,9,68,1:26:11.17,9.0,\N,\N,\N
+756,224,Emerson,Fittipaldi,Brazilian,United States Grand Prix,1970,1970-10-04,654,46,108,1:57:32.79,9.0,\N,\N,\N
+757,224,Emerson,Fittipaldi,Brazilian,Spanish Grand Prix,1972,1972-05-01,622,45,90,2:03:41.2,9.0,\N,\N,\N
+758,224,Emerson,Fittipaldi,Brazilian,Belgian Grand Prix,1972,1972-06-04,624,50,85,1:44:07.3,9.0,\N,\N,\N
+759,224,Emerson,Fittipaldi,Brazilian,British Grand Prix,1972,1972-07-15,626,38,76,1:47:50.2,9.0,\N,\N,\N
+760,224,Emerson,Fittipaldi,Brazilian,Austrian Grand Prix,1972,1972-08-13,628,70,54,1:29:16.660,9.0,\N,\N,\N
+761,224,Emerson,Fittipaldi,Brazilian,Italian Grand Prix,1972,1972-09-10,629,14,55,1:29:58.4,9.0,\N,\N,\N
+762,224,Emerson,Fittipaldi,Brazilian,Argentine Grand Prix,1973,1973-01-28,605,25,96,1:56:18.22,9.0,\N,\N,\N
+763,224,Emerson,Fittipaldi,Brazilian,Brazilian Grand Prix,1973,1973-02-11,606,18,40,1:43:55.6,9.0,\N,\N,\N
+764,224,Emerson,Fittipaldi,Brazilian,Spanish Grand Prix,1973,1973-04-29,608,49,75,1:48:18.7,9.0,\N,\N,\N
+765,224,Emerson,Fittipaldi,Brazilian,Brazilian Grand Prix,1974,1974-01-27,591,18,32,1:24:37.06,9.0,\N,\N,\N
+766,224,Emerson,Fittipaldi,Brazilian,Belgian Grand Prix,1974,1974-05-12,594,50,85,1:44:20.57,9.0,\N,\N,\N
+767,224,Emerson,Fittipaldi,Brazilian,Canadian Grand Prix,1974,1974-09-22,603,48,80,1:40:26.136,9.0,\N,\N,\N
+768,224,Emerson,Fittipaldi,Brazilian,Argentine Grand Prix,1975,1975-01-12,576,25,53,1:39:26.29,9.0,\N,\N,\N
+769,224,Emerson,Fittipaldi,Brazilian,British Grand Prix,1975,1975-07-19,585,9,56,1:22:05.0,9.0,\N,\N,\N
+770,230,Vittorio,Brambilla,Italian,Austrian Grand Prix,1975,1975-08-17,587,70,29,0:57:56.69,4.5,\N,\N,\N
+771,231,James,Hunt,British,Dutch Grand Prix,1975,1975-06-22,583,39,75,1:46:57.40,9.0,\N,\N,\N
+772,231,James,Hunt,British,Spanish Grand Prix,1976,1976-05-02,563,45,75,1:42:20.43,9.0,\N,\N,\N
+773,231,James,Hunt,British,French Grand Prix,1976,1976-07-04,567,34,54,1:40:58.60,9.0,\N,\N,\N
+774,231,James,Hunt,British,German Grand Prix,1976,1976-08-01,569,20,14,1:41:42.7,9.0,\N,\N,\N
+775,231,James,Hunt,British,Dutch Grand Prix,1976,1976-08-29,571,39,75,1:44:52.09,9.0,\N,\N,\N
+776,231,James,Hunt,British,Canadian Grand Prix,1976,1976-10-03,573,48,80,1:40:09.626,9.0,\N,\N,\N
+777,231,James,Hunt,British,United States Grand Prix,1976,1976-10-10,574,46,59,1:42:40.742,9.0,\N,\N,\N
+778,231,James,Hunt,British,British Grand Prix,1977,1977-07-16,552,9,68,1:31:46.06,9.0,\N,\N,\N
+779,231,James,Hunt,British,United States Grand Prix,1977,1977-10-02,557,46,59,1:58:23.267,9.0,\N,\N,\N
+780,231,James,Hunt,British,Japanese Grand Prix,1977,1977-10-23,559,16,73,1:31:51.68,9.0,\N,\N,\N
+781,235,Jacky,Ickx,Belgian,French Grand Prix,1968,1968-07-07,672,53,60,2:25:40.9,9.0,\N,\N,\N
+782,235,Jacky,Ickx,Belgian,German Grand Prix,1969,1969-08-03,662,20,14,1:49:55.4,9.0,\N,\N,\N
+783,235,Jacky,Ickx,Belgian,Canadian Grand Prix,1969,1969-09-20,664,48,90,1:59:25.7,9.0,\N,\N,\N
+784,235,Jacky,Ickx,Belgian,Austrian Grand Prix,1970,1970-08-16,651,70,60,1:42:17.3,9.0,\N,\N,\N
+785,235,Jacky,Ickx,Belgian,Canadian Grand Prix,1970,1970-09-20,653,52,90,1:21:18.4,9.0,\N,\N,\N
+786,235,Jacky,Ickx,Belgian,Mexican Grand Prix,1970,1970-10-25,655,32,65,1:53:28.3,9.0,\N,\N,\N
+787,235,Jacky,Ickx,Belgian,Dutch Grand Prix,1971,1971-06-20,635,39,70,1:56:20.0,9.0,\N,\N,\N
+788,235,Jacky,Ickx,Belgian,German Grand Prix,1972,1972-07-30,627,20,14,1:42:12.3,9.0,\N,\N,\N
+789,238,Ronnie,Peterson,Swedish,French Grand Prix,1973,1973-07-01,612,34,54,1:41:36.52,9.0,\N,\N,\N
+790,238,Ronnie,Peterson,Swedish,Austrian Grand Prix,1973,1973-08-19,616,70,54,1:28:48.78,9.0,\N,\N,\N
+791,238,Ronnie,Peterson,Swedish,Italian Grand Prix,1973,1973-09-09,617,14,55,1:29:17.0,9.0,\N,\N,\N
+792,238,Ronnie,Peterson,Swedish,United States Grand Prix,1973,1973-10-07,619,46,59,1:41:15.779,9.0,\N,\N,\N
+793,238,Ronnie,Peterson,Swedish,Monaco Grand Prix,1974,1974-05-26,595,6,78,1:58:03.7,9.0,\N,\N,\N
+794,238,Ronnie,Peterson,Swedish,French Grand Prix,1974,1974-07-07,598,41,80,1:21:55.02,9.0,\N,\N,\N
+795,238,Ronnie,Peterson,Swedish,Italian Grand Prix,1974,1974-09-08,602,14,52,1:22:56.6,9.0,\N,\N,\N
+796,238,Ronnie,Peterson,Swedish,Italian Grand Prix,1976,1976-09-12,572,14,52,1:30:35.6,9.0,\N,\N,\N
+797,238,Ronnie,Peterson,Swedish,South African Grand Prix,1978,1978-03-04,529,30,78,1:42:15.767,9.0,\N,\N,\N
+798,238,Ronnie,Peterson,Swedish,Austrian Grand Prix,1978,1978-08-13,538,70,54,1:41:21.57,9.0,\N,\N,\N
+799,250,Carlos,Pace,Brazilian,Brazilian Grand Prix,1975,1975-01-26,577,18,40,1:44:41.17,9.0,\N,\N,\N
+800,255,Gunnar,Nilsson,Swedish,Belgian Grand Prix,1977,1977-06-05,549,40,70,1:55:05.71,9.0,\N,\N,\N
+801,289,Graham,Hill,British,Dutch Grand Prix,1962,1962-05-20,729,39,80,2:11:02.1,9.0,\N,\N,\N
+802,289,Graham,Hill,British,German Grand Prix,1962,1962-08-05,734,20,15,2:38:45.3,9.0,\N,\N,\N
+803,289,Graham,Hill,British,Italian Grand Prix,1962,1962-09-16,735,14,86,2:29:08.4,9.0,\N,\N,\N
+804,289,Graham,Hill,British,South African Grand Prix,1962,1962-12-29,737,56,82,2:08:03.3,9.0,\N,\N,\N
+805,289,Graham,Hill,British,Monaco Grand Prix,1963,1963-05-26,719,6,100,2:41:49.7,9.0,\N,\N,\N
+806,289,Graham,Hill,British,United States Grand Prix,1963,1963-10-06,726,46,110,2:19:22.1,9.0,\N,\N,\N
+807,289,Graham,Hill,British,Monaco Grand Prix,1964,1964-05-10,709,6,100,2:41:19.5,9.0,\N,\N,\N
+808,289,Graham,Hill,British,United States Grand Prix,1964,1964-10-04,717,46,110,2:16:38.0,9.0,\N,\N,\N
+809,289,Graham,Hill,British,Monaco Grand Prix,1965,1965-05-30,700,6,100,2:37:39.6,9.0,\N,\N,\N
+810,289,Graham,Hill,British,United States Grand Prix,1965,1965-10-03,707,46,110,2:20:36.1,9.0,\N,\N,\N
+811,289,Graham,Hill,British,Spanish Grand Prix,1968,1968-05-12,668,45,90,2:15:02.1,9.0,\N,\N,\N
+812,289,Graham,Hill,British,Monaco Grand Prix,1968,1968-05-26,669,6,80,2:00:32.3,9.0,\N,\N,\N
+813,289,Graham,Hill,British,Mexican Grand Prix,1968,1968-11-03,678,32,65,1:56:43.95,9.0,\N,\N,\N
+814,289,Graham,Hill,British,Monaco Grand Prix,1969,1969-05-18,658,6,80,1:56:59.4,9.0,\N,\N,\N
+815,304,Denny,Hulme,New Zealander,Monaco Grand Prix,1967,1967-05-07,680,6,100,2:34:34.3,9.0,\N,\N,\N
+816,304,Denny,Hulme,New Zealander,German Grand Prix,1967,1967-08-06,685,20,15,2:05:55.7,9.0,\N,\N,\N
+817,304,Denny,Hulme,New Zealander,Italian Grand Prix,1968,1968-09-08,675,14,68,1:40:14.8,9.0,\N,\N,\N
+818,304,Denny,Hulme,New Zealander,Canadian Grand Prix,1968,1968-09-22,676,52,90,2:27:11.2,9.0,\N,\N,\N
+819,304,Denny,Hulme,New Zealander,Mexican Grand Prix,1969,1969-10-19,666,32,65,1:54:08.80,9.0,\N,\N,\N
+820,304,Denny,Hulme,New Zealander,South African Grand Prix,1972,1972-03-04,621,30,79,1:45:49.1,9.0,\N,\N,\N
+821,304,Denny,Hulme,New Zealander,Swedish Grand Prix,1973,1973-06-17,611,47,80,1:56:46.049,9.0,\N,\N,\N
+822,304,Denny,Hulme,New Zealander,Argentine Grand Prix,1974,1974-01-13,590,25,53,1:41:02.01,9.0,\N,\N,\N
+823,306,Jean-Pierre,Beltoise,French,Monaco Grand Prix,1972,1972-05-14,623,6,80,2:26:55.3,9.0,\N,\N,\N
+824,309,Peter,Revson,American,British Grand Prix,1973,1973-07-14,613,9,67,1:29:18.5,9.0,\N,\N,\N
+825,309,Peter,Revson,American,Canadian Grand Prix,1973,1973-09-23,618,48,80,1:59:04.083,9.0,\N,\N,\N
+826,320,Peter,Gethin,British,Italian Grand Prix,1971,1971-09-05,640,14,55,1:18:12.60,9.0,\N,\N,\N
+827,327,François,Cevert,French,United States Grand Prix,1971,1971-10-03,642,46,59,1:43:51.991,9.0,\N,\N,\N
+828,328,Jackie,Stewart,British,Italian Grand Prix,1965,1965-09-12,706,14,76,2:04:52.8,9.0,\N,\N,\N
+829,328,Jackie,Stewart,British,Monaco Grand Prix,1966,1966-05-22,690,6,100,2:33:10.5,9.0,\N,\N,\N
+830,328,Jackie,Stewart,British,Dutch Grand Prix,1968,1968-06-23,671,39,90,2:46:11.2,9.0,\N,\N,\N
+831,328,Jackie,Stewart,British,German Grand Prix,1968,1968-08-04,674,20,14,2:19:03.2,9.0,\N,\N,\N
+832,328,Jackie,Stewart,British,United States Grand Prix,1968,1968-10-06,677,46,108,1:59:20.29,9.0,\N,\N,\N
+833,328,Jackie,Stewart,British,South African Grand Prix,1969,1969-03-01,656,30,80,1:50:39.1,9.0,\N,\N,\N
+834,328,Jackie,Stewart,British,Spanish Grand Prix,1969,1969-05-04,657,49,90,2:16:54.0,9.0,\N,\N,\N
+835,328,Jackie,Stewart,British,Dutch Grand Prix,1969,1969-06-21,659,39,90,2:06:42.08,9.0,\N,\N,\N
+836,328,Jackie,Stewart,British,French Grand Prix,1969,1969-07-06,660,51,38,1:56:47.4,9.0,\N,\N,\N
+837,328,Jackie,Stewart,British,British Grand Prix,1969,1969-07-19,661,9,84,1:55:55.6,9.0,\N,\N,\N
+838,328,Jackie,Stewart,British,Italian Grand Prix,1969,1969-09-07,663,14,68,1:39:11.26,9.0,\N,\N,\N
+839,328,Jackie,Stewart,British,Spanish Grand Prix,1970,1970-04-19,644,45,90,2:10:58.2,9.0,\N,\N,\N
+840,328,Jackie,Stewart,British,Spanish Grand Prix,1971,1971-04-18,633,49,75,1:49:03.4,9.0,\N,\N,\N
+841,328,Jackie,Stewart,British,Monaco Grand Prix,1971,1971-05-23,634,6,80,1:52:21.3,9.0,\N,\N,\N
+842,328,Jackie,Stewart,British,French Grand Prix,1971,1971-07-04,636,34,55,1:46:42.3,9.0,\N,\N,\N
+843,328,Jackie,Stewart,British,British Grand Prix,1971,1971-07-17,637,9,68,1:31:31.5,9.0,\N,\N,\N
+844,328,Jackie,Stewart,British,German Grand Prix,1971,1971-08-01,638,20,12,1:29:16.3,9.0,\N,\N,\N
+845,328,Jackie,Stewart,British,Canadian Grand Prix,1971,1971-09-19,641,48,64,1:55:13.1,9.0,\N,\N,\N
+846,328,Jackie,Stewart,British,Argentine Grand Prix,1972,1972-01-23,620,25,95,1:57:59.1,9.0,\N,\N,\N
+847,328,Jackie,Stewart,British,French Grand Prix,1972,1972-07-02,625,51,38,1:52:22.5,9.0,\N,\N,\N
+848,328,Jackie,Stewart,British,Canadian Grand Prix,1972,1972-09-24,630,48,80,1:43:17.1,9.0,\N,\N,\N
+849,328,Jackie,Stewart,British,United States Grand Prix,1972,1972-10-08,631,46,59,1:41:45.354,9.0,\N,\N,\N
+850,328,Jackie,Stewart,British,South African Grand Prix,1973,1973-03-03,607,30,79,1:43:11.07,9.0,\N,\N,\N
+851,328,Jackie,Stewart,British,Belgian Grand Prix,1973,1973-05-20,609,40,70,1:42:13.43,9.0,\N,\N,\N
+852,328,Jackie,Stewart,British,Monaco Grand Prix,1973,1973-06-03,610,6,78,1:57:44.3,9.0,\N,\N,\N
+853,328,Jackie,Stewart,British,Dutch Grand Prix,1973,1973-07-29,614,39,72,1:39:12.45,9.0,\N,\N,\N
+854,328,Jackie,Stewart,British,German Grand Prix,1973,1973-08-05,615,20,14,1:42:03.0,9.0,\N,\N,\N
+855,341,John,Surtees,British,German Grand Prix,1963,1963-08-04,724,20,15,2:13:06.8,9.0,\N,\N,\N
+856,341,John,Surtees,British,German Grand Prix,1964,1964-08-02,714,20,15,2:12:04.8,9.0,\N,\N,\N
+857,341,John,Surtees,British,Italian Grand Prix,1964,1964-09-06,716,14,78,2:10:51.8,9.0,\N,\N,\N
+858,341,John,Surtees,British,Belgian Grand Prix,1966,1966-06-12,691,13,28,2:09:11.3,9.0,\N,\N,\N
+859,341,John,Surtees,British,Mexican Grand Prix,1966,1966-10-23,698,32,65,2:06:35.34,9.0,\N,\N,\N
+860,341,John,Surtees,British,Italian Grand Prix,1967,1967-09-10,687,14,68,1:43:45.0,9.0,\N,\N,\N
+861,345,Pedro,Rodríguez,Mexican,South African Grand Prix,1967,1967-01-02,679,30,80,2:05:45.9,9.0,\N,\N,\N
+862,345,Pedro,Rodríguez,Mexican,Belgian Grand Prix,1970,1970-06-07,646,13,28,1:38:10.1,9.0,\N,\N,\N
+863,346,Jo,Siffert,Swiss,British Grand Prix,1968,1968-07-20,673,38,80,2:01:20.3,9.0,\N,\N,\N
+864,346,Jo,Siffert,Swiss,Austrian Grand Prix,1971,1971-08-15,639,70,54,1:30:23.91,9.0,\N,\N,\N
+865,347,Jo,Bonnier,Swedish,Dutch Grand Prix,1959,1959-05-31,758,39,75,2:05:26.8,8.0,\N,\N,\N
+866,356,Jack,Brabham,Australian,Monaco Grand Prix,1959,1959-05-10,756,6,100,2:55:51.3,9.0,\N,\N,\N
+867,356,Jack,Brabham,Australian,British Grand Prix,1959,1959-07-18,760,58,75,2:30:11.6,8.0,\N,\N,\N
+868,356,Jack,Brabham,Australian,Dutch Grand Prix,1960,1960-06-06,749,39,75,2:01:47.2,8.0,\N,\N,\N
+869,356,Jack,Brabham,Australian,Belgian Grand Prix,1960,1960-06-19,750,13,36,2:21:37.3,8.0,\N,\N,\N
+870,356,Jack,Brabham,Australian,French Grand Prix,1960,1960-07-03,751,55,50,1:57:24.9,8.0,\N,\N,\N
+871,356,Jack,Brabham,Australian,British Grand Prix,1960,1960-07-16,752,9,77,2:04:24.3,8.0,\N,\N,\N
+872,356,Jack,Brabham,Australian,Portuguese Grand Prix,1960,1960-08-14,753,59,55,2:19:00.03,8.0,\N,\N,\N
+873,356,Jack,Brabham,Australian,French Grand Prix,1966,1966-07-03,692,55,48,1:48:31.3,9.0,\N,\N,\N
+874,356,Jack,Brabham,Australian,British Grand Prix,1966,1966-07-16,693,38,80,2:13:13.4,9.0,\N,\N,\N
+875,356,Jack,Brabham,Australian,Dutch Grand Prix,1966,1966-07-24,694,39,90,2:20:32.5,9.0,\N,\N,\N
+876,356,Jack,Brabham,Australian,German Grand Prix,1966,1966-08-07,695,20,15,2:27:03.0,9.0,\N,\N,\N
+877,356,Jack,Brabham,Australian,French Grand Prix,1967,1967-07-02,683,54,80,2:13:21.3,9.0,\N,\N,\N
+878,356,Jack,Brabham,Australian,Canadian Grand Prix,1967,1967-08-27,686,48,90,2:40:40.0,9.0,\N,\N,\N
+879,356,Jack,Brabham,Australian,South African Grand Prix,1970,1970-03-07,643,30,80,1:49:35.4,9.0,\N,\N,\N
+880,358,Jochen,Rindt,Austrian,United States Grand Prix,1969,1969-10-05,665,46,108,1:57:56.84,9.0,\N,\N,\N
+881,358,Jochen,Rindt,Austrian,Monaco Grand Prix,1970,1970-05-10,645,6,80,1:54:37.4,9.0,\N,\N,\N
+882,358,Jochen,Rindt,Austrian,Dutch Grand Prix,1970,1970-06-21,647,39,80,1:50:43.4,9.0,\N,\N,\N
+883,358,Jochen,Rindt,Austrian,French Grand Prix,1970,1970-07-05,648,51,38,1:55:57.0,9.0,\N,\N,\N
+884,358,Jochen,Rindt,Austrian,British Grand Prix,1970,1970-07-18,649,38,80,1:57:02.0,9.0,\N,\N,\N
+885,358,Jochen,Rindt,Austrian,German Grand Prix,1970,1970-08-02,650,10,50,1:42:00.3,9.0,\N,\N,\N
+886,360,Bruce,McLaren,New Zealander,United States Grand Prix,1959,1959-12-12,764,63,42,2:12:35.7,8.0,\N,\N,\N
+887,360,Bruce,McLaren,New Zealander,Argentine Grand Prix,1960,1960-02-07,746,25,80,2:17:49.5,8.0,\N,\N,\N
+888,360,Bruce,McLaren,New Zealander,Monaco Grand Prix,1962,1962-06-03,730,6,100,2:46:29.7,9.0,\N,\N,\N
+889,360,Bruce,McLaren,New Zealander,Belgian Grand Prix,1968,1968-06-09,670,13,28,1:40:02.1,9.0,\N,\N,\N
+890,364,Dan,Gurney,American,French Grand Prix,1962,1962-07-08,732,53,54,2:07:05.5,9.0,\N,\N,\N
+891,364,Dan,Gurney,American,French Grand Prix,1964,1964-06-28,712,53,57,2:07:49.1,9.0,\N,\N,\N
+892,364,Dan,Gurney,American,Mexican Grand Prix,1964,1964-10-25,718,32,65,2:09:50.32,9.0,\N,\N,\N
+893,364,Dan,Gurney,American,Belgian Grand Prix,1967,1967-06-18,682,13,28,1:40:49.4,9.0,\N,\N,\N
+894,373,Jim,Clark,British,Belgian Grand Prix,1962,1962-06-17,731,13,32,2:07:32.3,9.0,\N,\N,\N
+895,373,Jim,Clark,British,British Grand Prix,1962,1962-07-21,733,58,75,2:26:20.8,9.0,\N,\N,\N
+896,373,Jim,Clark,British,United States Grand Prix,1962,1962-10-07,736,46,100,2:07:13.0,9.0,\N,\N,\N
+897,373,Jim,Clark,British,Belgian Grand Prix,1963,1963-06-09,720,13,32,2:27:47.6,9.0,\N,\N,\N
+898,373,Jim,Clark,British,Dutch Grand Prix,1963,1963-06-23,721,39,80,2:08:13.7,9.0,\N,\N,\N
+899,373,Jim,Clark,British,French Grand Prix,1963,1963-06-30,722,55,53,2:10:54.3,9.0,\N,\N,\N
+900,373,Jim,Clark,British,British Grand Prix,1963,1963-07-20,723,9,82,2:14:09.6,9.0,\N,\N,\N
+901,373,Jim,Clark,British,Italian Grand Prix,1963,1963-09-08,725,14,86,2:24:19.6,9.0,\N,\N,\N
+902,373,Jim,Clark,British,Mexican Grand Prix,1963,1963-10-27,727,32,65,2:09:52.1,9.0,\N,\N,\N
+903,373,Jim,Clark,British,South African Grand Prix,1963,1963-12-28,728,56,85,2:10:36.9,9.0,\N,\N,\N
+904,373,Jim,Clark,British,Dutch Grand Prix,1964,1964-05-24,710,39,80,2:07:35.4,9.0,\N,\N,\N
+905,373,Jim,Clark,British,Belgian Grand Prix,1964,1964-06-14,711,13,32,2:06:40.5,9.0,\N,\N,\N
+906,373,Jim,Clark,British,British Grand Prix,1964,1964-07-11,713,38,80,2:15:07.0,9.0,\N,\N,\N
+907,373,Jim,Clark,British,South African Grand Prix,1965,1965-01-01,699,56,85,2:06:46.0,9.0,\N,\N,\N
+908,373,Jim,Clark,British,Belgian Grand Prix,1965,1965-06-13,701,13,32,2:23:34.8,9.0,\N,\N,\N
+909,373,Jim,Clark,British,French Grand Prix,1965,1965-06-27,702,51,40,2:41:38.4,9.0,\N,\N,\N
+910,373,Jim,Clark,British,British Grand Prix,1965,1965-07-10,703,9,80,2:05:25.4,9.0,\N,\N,\N
+911,373,Jim,Clark,British,Dutch Grand Prix,1965,1965-07-18,704,39,80,2:03:59.1,9.0,\N,\N,\N
+912,373,Jim,Clark,British,German Grand Prix,1965,1965-08-01,705,20,15,2:07:52.4,9.0,\N,\N,\N
+913,373,Jim,Clark,British,United States Grand Prix,1966,1966-10-02,697,46,108,2:09:40.11,9.0,\N,\N,\N
+914,373,Jim,Clark,British,Dutch Grand Prix,1967,1967-06-04,681,39,90,2:14:45.1,9.0,\N,\N,\N
+915,373,Jim,Clark,British,British Grand Prix,1967,1967-07-15,684,9,80,1:59:25.6,9.0,\N,\N,\N
+916,373,Jim,Clark,British,United States Grand Prix,1967,1967-10-01,688,46,108,2:03:13.2,9.0,\N,\N,\N
+917,373,Jim,Clark,British,Mexican Grand Prix,1967,1967-10-22,689,32,65,1:59:28.70,9.0,\N,\N,\N
+918,373,Jim,Clark,British,South African Grand Prix,1968,1968-01-01,667,30,80,1:53:56.6,9.0,\N,\N,\N
+919,375,Ludovico,Scarfiotti,Italian,Italian Grand Prix,1966,1966-09-04,696,14,68,1:47:14.8,9.0,\N,\N,\N
+920,385,Lorenzo,Bandini,Italian,Austrian Grand Prix,1964,1964-08-23,715,57,105,2:06:18.23,9.0,\N,\N,\N
+921,386,Richie,Ginther,American,Mexican Grand Prix,1965,1965-10-24,708,32,65,2:08:32.10,9.0,\N,\N,\N
+922,394,Giancarlo,Baghetti,Italian,French Grand Prix,1961,1961-07-02,741,55,52,2:14:17.5,9.0,\N,\N,\N
+923,403,Phil,Hill,American,Italian Grand Prix,1960,1960-09-04,754,14,50,2:21:09.2,8.0,\N,\N,\N
+924,403,Phil,Hill,American,Belgian Grand Prix,1961,1961-06-18,740,13,30,2:03:03.8,9.0,\N,\N,\N
+925,403,Phil,Hill,American,Italian Grand Prix,1961,1961-09-10,744,14,43,2:03:13.0,9.0,\N,\N,\N
+926,404,Innes,Ireland,British,United States Grand Prix,1961,1961-10-08,745,46,100,2:13:45.8,9.0,\N,\N,\N
+927,427,Maurice,Trintignant,French,Monaco Grand Prix,1955,1955-05-22,793,6,100,2:58:09.8,8.0,\N,\N,\N
+928,427,Maurice,Trintignant,French,Monaco Grand Prix,1958,1958-05-18,766,6,100,2:52:27.9,8.0,\N,\N,\N
+929,449,Rodger,Ward,American,Indianapolis 500,1959,1959-05-30,757,19,200,3:40:49.20,8.0,\N,\N,\N
+930,475,Stirling,Moss,British,British Grand Prix,1955,1955-07-16,797,58,90,3:07:21.2,9.0,\N,\N,\N
+931,475,Stirling,Moss,British,Monaco Grand Prix,1956,1956-05-13,785,6,100,3:00:32.9,8.0,\N,\N,\N
+932,475,Stirling,Moss,British,Italian Grand Prix,1956,1956-09-02,791,14,50,2:23:41.3,9.0,\N,\N,\N
+933,475,Stirling,Moss,British,Pescara Grand Prix,1957,1957-08-18,782,65,18,2:59:22.7,9.0,\N,\N,\N
+934,475,Stirling,Moss,British,Italian Grand Prix,1957,1957-09-08,783,14,87,2:35:03.9,8.0,\N,\N,\N
+935,475,Stirling,Moss,British,British Grand Prix,1957,1957-07-20,780,58,90,3:06:37.8,5.0,\N,\N,\N
+936,475,Stirling,Moss,British,Argentine Grand Prix,1958,1958-01-19,765,25,80,2:19:33.7,8.0,\N,\N,\N
+937,475,Stirling,Moss,British,Dutch Grand Prix,1958,1958-05-26,767,39,75,2:04:49.2,9.0,\N,\N,\N
+938,475,Stirling,Moss,British,Portuguese Grand Prix,1958,1958-08-24,773,59,50,2:11:27.80,8.0,\N,\N,\N
+939,475,Stirling,Moss,British,Moroccan Grand Prix,1958,1958-10-19,775,64,53,2:09:15.1,9.0,\N,\N,\N
+940,475,Stirling,Moss,British,Portuguese Grand Prix,1959,1959-08-23,762,62,62,2:11:55.41,9.0,\N,\N,\N
+941,475,Stirling,Moss,British,Italian Grand Prix,1959,1959-09-13,763,14,72,2:04:05.4,8.0,\N,\N,\N
+942,475,Stirling,Moss,British,Monaco Grand Prix,1960,1960-05-29,747,6,100,2:53:45.5,8.0,\N,\N,\N
+943,475,Stirling,Moss,British,United States Grand Prix,1960,1960-11-20,755,60,75,2:28:52.2,8.0,\N,\N,\N
+944,475,Stirling,Moss,British,Monaco Grand Prix,1961,1961-05-14,738,6,100,2:45:50.1,9.0,\N,\N,\N
+945,475,Stirling,Moss,British,German Grand Prix,1961,1961-08-06,743,20,15,2:18:12.4,9.0,\N,\N,\N
+946,476,Wolfgang,von Trips,German,Dutch Grand Prix,1961,1961-05-22,739,39,75,2:01:52.1,9.0,\N,\N,\N
+947,476,Wolfgang,von Trips,German,British Grand Prix,1961,1961-07-15,742,58,75,2:40:53.6,9.0,\N,\N,\N
+948,479,Tony,Brooks,British,British Grand Prix,1957,1957-07-20,780,58,90,3:06:37.8,4.0,\N,\N,\N
+949,479,Tony,Brooks,British,Belgian Grand Prix,1958,1958-06-15,769,13,24,1:37:06.3,8.0,\N,\N,\N
+950,479,Tony,Brooks,British,German Grand Prix,1958,1958-08-03,772,20,15,2:21:15.0,8.0,\N,\N,\N
+951,479,Tony,Brooks,British,Italian Grand Prix,1958,1958-09-07,774,14,70,2:03:47.8,8.0,\N,\N,\N
+952,479,Tony,Brooks,British,French Grand Prix,1959,1959-07-05,759,55,50,2:01:26.5,8.0,\N,\N,\N
+953,479,Tony,Brooks,British,German Grand Prix,1959,1959-08-02,761,61,60,2:09:31.6,9.0,\N,\N,\N
+954,498,José Froilán,González,Argentine,British Grand Prix,1951,1951-07-14,829,9,90,2:42:18.2,8.0,\N,\N,\N
+955,498,José Froilán,González,Argentine,British Grand Prix,1954,1954-07-17,803,9,90,2:56:14.0,8.14,\N,\N,\N
+956,509,Jim,Rathmann,American,Indianapolis 500,1960,1960-05-30,748,19,200,3:36:11.36,8.0,\N,\N,\N
+957,525,Jimmy,Bryan,American,Indianapolis 500,1958,1958-05-30,768,19,200,3:44:13.80,8.0,\N,\N,\N
+958,526,Troy,Ruttman,American,Indianapolis 500,1952,1952-05-30,818,19,200,3:52:41.88,8.0,\N,\N,\N
+959,559,Pat,Flaherty,American,Indianapolis 500,1956,1956-05-30,786,19,200,3:53:28.84,8.0,\N,\N,\N
+960,577,Luigi,Musso,Italian,Argentine Grand Prix,1956,1956-01-22,784,25,98,3:00:03.7,4.0,\N,\N,\N
+961,578,Mike,Hawthorn,British,French Grand Prix,1953,1953-07-05,812,55,60,2:44:18.6,8.0,\N,\N,\N
+962,578,Mike,Hawthorn,British,Spanish Grand Prix,1954,1954-10-24,807,67,80,3:13:52.1,8.0,\N,\N,\N
+963,578,Mike,Hawthorn,British,French Grand Prix,1958,1958-07-06,770,55,50,2:03:21.3,9.0,\N,\N,\N
+964,579,Juan,Fangio,Argentine,Monaco Grand Prix,1950,1950-05-21,834,6,100,3:13:18.7,9.0,\N,\N,\N
+965,579,Juan,Fangio,Argentine,Belgian Grand Prix,1950,1950-06-18,837,13,35,2:47:26.0,8.0,\N,\N,\N
+966,579,Juan,Fangio,Argentine,French Grand Prix,1950,1950-07-02,838,55,64,2:57:52.8,9.0,\N,\N,\N
+967,579,Juan,Fangio,Argentine,Swiss Grand Prix,1951,1951-05-27,825,66,42,2:07:53.64,9.0,\N,\N,\N
+968,579,Juan,Fangio,Argentine,Spanish Grand Prix,1951,1951-10-28,832,67,70,2:46:54.10,9.0,\N,\N,\N
+969,579,Juan,Fangio,Argentine,French Grand Prix,1951,1951-07-01,828,55,77,3:22:11.0,5.0,\N,\N,\N
+970,579,Juan,Fangio,Argentine,Italian Grand Prix,1953,1953-09-13,816,14,80,2:49:45.9,9.0,\N,\N,\N
+971,579,Juan,Fangio,Argentine,Argentine Grand Prix,1954,1954-01-17,799,25,87,3:00:55.8,8.0,\N,\N,\N
+972,579,Juan,Fangio,Argentine,Belgian Grand Prix,1954,1954-06-20,801,13,36,2:44:42.4,9.0,\N,\N,\N
+973,579,Juan,Fangio,Argentine,French Grand Prix,1954,1954-07-04,802,55,61,2:42:47.9,8.0,\N,\N,\N
+974,579,Juan,Fangio,Argentine,German Grand Prix,1954,1954-08-01,804,20,22,3:45:45.8,8.0,\N,\N,\N
+975,579,Juan,Fangio,Argentine,Swiss Grand Prix,1954,1954-08-22,805,66,66,3:00:34.5,9.0,\N,\N,\N
+976,579,Juan,Fangio,Argentine,Italian Grand Prix,1954,1954-09-05,806,14,80,2:47:47.9,8.0,\N,\N,\N
+977,579,Juan,Fangio,Argentine,Argentine Grand Prix,1955,1955-01-16,792,25,96,3:00:38.6,9.0,\N,\N,\N
+978,579,Juan,Fangio,Argentine,Belgian Grand Prix,1955,1955-06-05,795,13,36,2:39:29.0,9.0,\N,\N,\N
+979,579,Juan,Fangio,Argentine,Dutch Grand Prix,1955,1955-06-19,796,39,100,2:54:23.8,8.0,\N,\N,\N
+980,579,Juan,Fangio,Argentine,Italian Grand Prix,1955,1955-09-11,798,14,50,2:25:04.4,8.0,\N,\N,\N
+981,579,Juan,Fangio,Argentine,Argentine Grand Prix,1956,1956-01-22,784,25,98,3:00:03.7,5.0,\N,\N,\N
+982,579,Juan,Fangio,Argentine,British Grand Prix,1956,1956-07-14,789,9,101,2:59:47.0,8.0,\N,\N,\N
+983,579,Juan,Fangio,Argentine,German Grand Prix,1956,1956-08-05,790,20,22,3:38:43.7,9.0,\N,\N,\N
+984,579,Juan,Fangio,Argentine,Argentine Grand Prix,1957,1957-01-13,776,25,100,3:00:55.9,8.0,\N,\N,\N
+985,579,Juan,Fangio,Argentine,Monaco Grand Prix,1957,1957-05-19,777,6,105,3:10:12.8,9.0,\N,\N,\N
+986,579,Juan,Fangio,Argentine,French Grand Prix,1957,1957-07-07,779,53,77,3:07:46.4,8.0,\N,\N,\N
+987,579,Juan,Fangio,Argentine,German Grand Prix,1957,1957-08-04,781,20,22,3:30:38.3,9.0,\N,\N,\N
+988,581,Peter,Collins,British,Belgian Grand Prix,1956,1956-06-03,787,13,36,2:40:00.3,8.0,\N,\N,\N
+989,581,Peter,Collins,British,French Grand Prix,1956,1956-07-01,788,55,61,2:34:23.4,8.0,\N,\N,\N
+990,581,Peter,Collins,British,British Grand Prix,1958,1958-07-19,771,9,75,2:09:04.2,8.0,\N,\N,\N
+991,593,Johnnie,Parsons,American,Indianapolis 500,1950,1950-05-30,835,19,138,2:46:55.97,9.0,\N,\N,\N
+992,611,Sam,Hanks,American,Indianapolis 500,1957,1957-05-30,778,19,200,3:41:14.25,8.0,\N,\N,\N
+993,628,Bob,Sweikert,American,Indianapolis 500,1955,1955-05-30,794,19,200,3:53:59.53,8.0,\N,\N,\N
+994,641,Piero,Taruffi,Italian,Swiss Grand Prix,1952,1952-05-18,817,66,62,3:01:46.1,9.0,\N,\N,\N
+995,642,Nino,Farina,Italian,British Grand Prix,1950,1950-05-13,833,9,70,2:13:23.6,9.0,\N,\N,\N
+996,642,Nino,Farina,Italian,Swiss Grand Prix,1950,1950-06-04,836,66,42,2:02:53.7,9.0,\N,\N,\N
+997,642,Nino,Farina,Italian,Italian Grand Prix,1950,1950-09-03,839,14,80,2:51:17.4,8.0,\N,\N,\N
+998,642,Nino,Farina,Italian,Belgian Grand Prix,1951,1951-06-17,827,13,36,2:45:46.2,8.0,\N,\N,\N
+999,642,Nino,Farina,Italian,German Grand Prix,1953,1953-08-02,814,20,18,3:02:25.0,8.0,\N,\N,\N
+1000,647,Alberto,Ascari,Italian,German Grand Prix,1951,1951-07-29,830,20,20,3:23:03.3,8.0,\N,\N,\N
+1001,647,Alberto,Ascari,Italian,Italian Grand Prix,1951,1951-09-16,831,14,80,2:42:39.3,8.0,\N,\N,\N
+1002,647,Alberto,Ascari,Italian,Belgian Grand Prix,1952,1952-06-22,819,13,36,3:03:46.3,9.0,\N,\N,\N
+1003,647,Alberto,Ascari,Italian,French Grand Prix,1952,1952-07-06,820,53,77,3:00:00.0,9.0,\N,\N,\N
+1004,647,Alberto,Ascari,Italian,British Grand Prix,1952,1952-07-19,821,9,85,2:46:11.0,9.0,\N,\N,\N
+1005,647,Alberto,Ascari,Italian,German Grand Prix,1952,1952-08-03,822,20,18,3:06:13.3,9.0,\N,\N,\N
+1006,647,Alberto,Ascari,Italian,Dutch Grand Prix,1952,1952-08-17,823,39,90,2:53:28.5,9.0,\N,\N,\N
+1007,647,Alberto,Ascari,Italian,Italian Grand Prix,1952,1952-09-07,824,14,80,2:50:45.6,8.5,\N,\N,\N
+1008,647,Alberto,Ascari,Italian,Argentine Grand Prix,1953,1953-01-18,808,25,97,3:01:04.6,9.0,\N,\N,\N
+1009,647,Alberto,Ascari,Italian,Dutch Grand Prix,1953,1953-06-07,810,39,90,2:53:35.8,8.0,\N,\N,\N
+1010,647,Alberto,Ascari,Italian,Belgian Grand Prix,1953,1953-06-21,811,13,36,2:48:30.3,8.0,\N,\N,\N
+1011,647,Alberto,Ascari,Italian,British Grand Prix,1953,1953-07-18,813,9,90,2:50:00.0,8.5,\N,\N,\N
+1012,647,Alberto,Ascari,Italian,Swiss Grand Prix,1953,1953-08-23,815,66,65,3:01:34.40,9.0,\N,\N,\N
+1013,657,Bill,Vukovich,American,Indianapolis 500,1953,1953-05-30,809,19,200,3:53:01.69,9.0,\N,\N,\N
+1014,657,Bill,Vukovich,American,Indianapolis 500,1954,1954-05-31,800,19,200,3:49:17.27,8.0,\N,\N,\N
+1015,766,Lee,Wallard,American,Indianapolis 500,1951,1951-05-30,826,19,200,3:57:38.05,9.0,\N,\N,\N
+1016,786,Luigi,Fagioli,Italian,French Grand Prix,1951,1951-07-01,828,55,77,3:22:11.0,4.0,\N,\N,\N
+1017,813,Pastor,Maldonado,Venezuelan,Spanish Grand Prix,2012,2012-05-13,864,4,66,1:39:09.145,25.0,1:27.906,190.635,6
+1018,815,Sergio,Pérez,Mexican,Sakhir Grand Prix,2020,2020-12-06,1046,3,87,1:31:15.114,25.0,0:56.789,224.599,3
+1019,815,Sergio,Pérez,Mexican,Azerbaijan Grand Prix,2021,2021-06-06,1057,73,51,2:13:36.410,25.0,1:44.687,206.432,2
+1020,815,Sergio,Pérez,Mexican,Monaco Grand Prix,2022,2022-05-29,1080,6,64,1:56:30.265,25.0,1:16.028,158.010,4
+1021,815,Sergio,Pérez,Mexican,Singapore Grand Prix,2022,2022-10-02,1091,15,59,2:02:20.238,25.0,1:48.165,168.509,2
+1022,815,Sergio,Pérez,Mexican,Saudi Arabian Grand Prix,2023,2023-03-19,1099,77,50,1:21:14.894,25.0,1:32.188,241.098,2
+1023,815,Sergio,Pérez,Mexican,Azerbaijan Grand Prix,2023,2023-04-30,1101,73,51,1:32:42.436,25.0,1:44.589,206.625,5
+1024,817,Daniel,Ricciardo,Australian,Canadian Grand Prix,2014,2014-06-08,906,7,70,1:39:12.830,25.0,1:18.640,199.638,4
+1025,817,Daniel,Ricciardo,Australian,Hungarian Grand Prix,2014,2014-07-27,910,11,70,1:53:05.058,25.0,1:26.608,182.103,2
+1026,817,Daniel,Ricciardo,Australian,Belgian Grand Prix,2014,2014-08-24,911,13,44,1:24:36.556,25.0,1:52.974,223.187,6
+1027,817,Daniel,Ricciardo,Australian,Malaysian Grand Prix,2016,2016-10-02,963,2,56,1:37:12.776,25.0,1:37.449,204.771,3
+1028,817,Daniel,Ricciardo,Australian,Azerbaijan Grand Prix,2017,2017-06-25,976,73,51,2:03:55.573,25.0,1:44.882,206.048,4
+1029,817,Daniel,Ricciardo,Australian,Chinese Grand Prix,2018,2018-04-15,991,17,56,1:35:36.380,25.0,1:35.785,204.871,1
+1030,817,Daniel,Ricciardo,Australian,Monaco Grand Prix,2018,2018-05-27,994,6,78,1:42:54.807,25.0,1:15.562,158.984,5
+1031,817,Daniel,Ricciardo,Australian,Italian Grand Prix,2021,2021-09-12,1065,14,53,1:21:54.365,26.0,1:24.812,245.894,1
+1032,822,Valtteri,Bottas,Finnish,Russian Grand Prix,2017,2017-04-30,972,71,52,1:28:08.743,25.0,1:37.367,216.221,3
+1033,822,Valtteri,Bottas,Finnish,Austrian Grand Prix,2017,2017-07-09,977,70,71,1:21:48.523,25.0,1:07.847,229.115,5
+1034,822,Valtteri,Bottas,Finnish,Abu Dhabi Grand Prix,2017,2017-11-26,988,24,55,1:34:14.062,25.0,1:40.650,198.652,1
+1035,822,Valtteri,Bottas,Finnish,Australian Grand Prix,2019,2019-03-17,1010,1,58,1:25:27.325,26.0,1:25.580,223.075,1
+1036,822,Valtteri,Bottas,Finnish,Azerbaijan Grand Prix,2019,2019-04-28,1013,73,51,1:31:52.942,25.0,1:44.024,207.748,2
+1037,822,Valtteri,Bottas,Finnish,Japanese Grand Prix,2019,2019-10-13,1026,22,52,1:21:46.755,25.0,1:31.862,227.571,4
+1038,822,Valtteri,Bottas,Finnish,United States Grand Prix,2019,2019-11-03,1028,69,56,1:33:55.653,25.0,1:36.957,204.696,2
+1039,822,Valtteri,Bottas,Finnish,Austrian Grand Prix,2020,2020-07-05,1031,70,71,1:30:55.739,25.0,1:07.657,229.758,2
+1040,822,Valtteri,Bottas,Finnish,Russian Grand Prix,2020,2020-09-27,1040,71,53,1:34:00.364,26.0,1:37.030,216.972,1
+1041,822,Valtteri,Bottas,Finnish,Turkish Grand Prix,2021,2021-10-10,1067,5,58,1:31:04.103,26.0,1:30.432,212.500,1
+1042,830,Max,Verstappen,Dutch,Spanish Grand Prix,2016,2016-05-15,952,4,66,1:41:40.017,25.0,1:28.816,188.682,6
+1043,830,Max,Verstappen,Dutch,Malaysian Grand Prix,2017,2017-10-01,983,2,56,1:30:01.290,25.0,1:34.467,211.235,4
+1044,830,Max,Verstappen,Dutch,Mexican Grand Prix,2017,2017-10-29,986,32,71,1:36:26.552,25.0,1:18.892,196.400,2
+1045,830,Max,Verstappen,Dutch,Austrian Grand Prix,2018,2018-07-01,997,70,71,1:21:56.024,25.0,1:07.442,230.491,4
+1046,830,Max,Verstappen,Dutch,Mexican Grand Prix,2018,2018-10-28,1007,32,71,1:38:28.851,25.0,1:19.186,195.670,2
+1047,830,Max,Verstappen,Dutch,Austrian Grand Prix,2019,2019-06-30,1018,70,71,1:22:01.822,26.0,1:07.475,230.378,1
+1048,830,Max,Verstappen,Dutch,German Grand Prix,2019,2019-07-28,1020,10,64,1:44:31.275,26.0,1:16.645,214.839,1
+1049,830,Max,Verstappen,Dutch,Brazilian Grand Prix,2019,2019-11-17,1029,18,71,1:33:14.678,25.0,1:10.862,218.909,2
+1050,830,Max,Verstappen,Dutch,70th Anniversary Grand Prix,2020,2020-08-09,1035,9,52,1:19:41.993,25.0,1:29.465,237.049,2
+1051,830,Max,Verstappen,Dutch,Abu Dhabi Grand Prix,2020,2020-12-13,1047,24,55,1:36:28.645,25.0,1:40.958,198.046,2
+1052,830,Max,Verstappen,Dutch,Emilia Romagna Grand Prix,2021,2021-04-18,1053,21,63,2:02:34.598,25.0,1:17.524,227.960,2
+1053,830,Max,Verstappen,Dutch,Monaco Grand Prix,2021,2021-05-23,1056,6,78,1:38:56.820,25.0,1:14.649,160.929,6
+1054,830,Max,Verstappen,Dutch,French Grand Prix,2021,2021-06-20,1059,34,53,1:27:25.770,26.0,1:36.404,218.156,1
+1055,830,Max,Verstappen,Dutch,Styrian Grand Prix,2021,2021-06-27,1058,70,71,1:22:18.925,25.0,1:08.017,228.542,3
+1056,830,Max,Verstappen,Dutch,Austrian Grand Prix,2021,2021-07-04,1060,70,71,1:23:54.543,26.0,1:06.200,234.815,1
+1057,830,Max,Verstappen,Dutch,Belgian Grand Prix,2021,2021-08-29,1063,13,1,3:27.071,12.5,\N,\N,0
+1058,830,Max,Verstappen,Dutch,Dutch Grand Prix,2021,2021-09-05,1064,39,72,1:30:05.395,25.0,1:13.275,209.244,3
+1059,830,Max,Verstappen,Dutch,United States Grand Prix,2021,2021-10-24,1069,69,56,1:34:36.552,25.0,1:39.096,200.278,2
+1060,830,Max,Verstappen,Dutch,Mexico City Grand Prix,2021,2021-11-07,1070,32,71,1:38:39.086,25.0,1:18.999,196.134,2
+1061,830,Max,Verstappen,Dutch,Abu Dhabi Grand Prix,2021,2021-12-12,1073,24,58,1:30:17.345,26.0,1:26.103,220.800,1
+1062,830,Max,Verstappen,Dutch,Saudi Arabian Grand Prix,2022,2022-03-27,1075,77,50,1:24:19.293,25.0,1:31.772,242.191,2
+1063,830,Max,Verstappen,Dutch,Emilia Romagna Grand Prix,2022,2022-04-24,1077,21,63,1:32:07.986,26.0,1:18.446,225.281,1
+1064,830,Max,Verstappen,Dutch,Miami Grand Prix,2022,2022-05-08,1078,79,57,1:34:24.258,26.0,1:31.361,213.255,1
+1065,830,Max,Verstappen,Dutch,Spanish Grand Prix,2022,2022-05-22,1079,4,66,1:37:20.475,25.0,1:25.456,196.943,4
+1066,830,Max,Verstappen,Dutch,Azerbaijan Grand Prix,2022,2022-06-12,1081,73,51,1:34:05.941,25.0,1:46.050,203.779,2
+1067,830,Max,Verstappen,Dutch,Canadian Grand Prix,2022,2022-06-19,1082,7,70,1:36:21.757,25.0,1:15.839,207.012,2
+1068,830,Max,Verstappen,Dutch,French Grand Prix,2022,2022-07-24,1085,34,53,1:30:02.112,25.0,1:37.491,215.724,2
+1069,830,Max,Verstappen,Dutch,Hungarian Grand Prix,2022,2022-07-31,1086,11,70,1:39:35.912,25.0,1:22.126,192.041,6
+1070,830,Max,Verstappen,Dutch,Belgian Grand Prix,2022,2022-08-28,1087,13,44,1:25:52.894,26.0,1:49.354,230.575,1
+1071,830,Max,Verstappen,Dutch,Dutch Grand Prix,2022,2022-09-04,1088,39,72,1:36:42.773,26.0,1:13.652,208.173,1
+1072,830,Max,Verstappen,Dutch,Italian Grand Prix,2022,2022-09-11,1089,14,53,1:20:27.511,25.0,1:24.745,246.088,6
+1073,830,Max,Verstappen,Dutch,Japanese Grand Prix,2022,2022-10-09,1092,22,28,3:01:44.004,25.0,1:44.911,199.266,4
+1074,830,Max,Verstappen,Dutch,United States Grand Prix,2022,2022-10-23,1093,69,56,1:42:11.687,25.0,1:39.541,199.383,2
+1075,830,Max,Verstappen,Dutch,Mexico City Grand Prix,2022,2022-10-30,1094,32,71,1:38:36.729,25.0,1:22.046,188.850,4
+1076,830,Max,Verstappen,Dutch,Abu Dhabi Grand Prix,2022,2022-11-20,1096,24,58,1:27:45.914,25.0,1:29.392,212.676,6
+1077,830,Max,Verstappen,Dutch,Bahrain Grand Prix,2023,2023-03-05,1098,3,57,1:33:56.736,25.0,1:36.236,202.452,6
+1078,830,Max,Verstappen,Dutch,Australian Grand Prix,2023,2023-04-02,1100,1,58,2:32:38.371,25.0,1:20.342,236.498,2
+1079,830,Max,Verstappen,Dutch,Miami Grand Prix,2023,2023-05-07,1102,79,57,1:27:38.241,26.0,1:29.708,217.184,1
+1080,830,Max,Verstappen,Dutch,Monaco Grand Prix,2023,2023-05-28,1104,6,78,1:48:51.980,25.0,1:16.604,156.822,7
+1081,830,Max,Verstappen,Dutch,Spanish Grand Prix,2023,2023-06-04,1105,4,66,1:27:57.940,26.0,1:16.330,219.641,1
+1082,830,Max,Verstappen,Dutch,Canadian Grand Prix,2023,2023-06-18,1106,7,70,1:33:58.348,25.0,1:15.594,207.683,3
+1083,830,Max,Verstappen,Dutch,Austrian Grand Prix,2023,2023-07-02,1107,70,71,1:25:33.607,26.0,1:07.012,231.970,1
+1084,830,Max,Verstappen,Dutch,British Grand Prix,2023,2023-07-09,1108,9,52,1:25:16.938,26.0,1:30.275,234.922,1
+1085,830,Max,Verstappen,Dutch,Hungarian Grand Prix,2023,2023-07-23,1109,11,70,1:38:08.634,26.0,1:20.504,195.910,1
+1086,830,Max,Verstappen,Dutch,Belgian Grand Prix,2023,2023-07-30,1110,13,44,1:22:30.450,25.0,1:48.922,231.490,2
+1087,830,Max,Verstappen,Dutch,Dutch Grand Prix,2023,2023-08-27,1111,39,72,2:24:04.411,25.0,1:13.889,207.505,2
+1088,830,Max,Verstappen,Dutch,Italian Grand Prix,2023,2023-09-03,1112,14,51,1:13:41.143,25.0,1:25.240,244.659,2
+1089,830,Max,Verstappen,Dutch,Japanese Grand Prix,2023,2023-09-24,1114,22,53,1:30:58.421,26.0,1:34.183,221.963,1
+1090,830,Max,Verstappen,Dutch,Qatar Grand Prix,2023,2023-10-08,1115,78,57,1:27:39.168,26.0,1:24.319,231.364,1
+1091,830,Max,Verstappen,Dutch,United States Grand Prix,2023,2023-10-22,1116,69,56,1:35:21.362,25.0,1:40.028,198.412,9
+1092,830,Max,Verstappen,Dutch,Mexico City Grand Prix,2023,2023-10-29,1117,32,71,2:02:30.814,25.0,1:21.644,189.780,2
+1093,830,Max,Verstappen,Dutch,São Paulo Grand Prix,2023,2023-11-05,1118,18,71,1:56:48.894,25.0,1:13.422,211.277,2
+1094,830,Max,Verstappen,Dutch,Las Vegas Grand Prix,2023,2023-11-19,1119,80,50,1:29:08.289,25.0,1:35.614,233.476,2
+1095,830,Max,Verstappen,Dutch,Abu Dhabi Grand Prix,2023,2023-11-26,1120,24,58,1:27:02.624,26.0,1:26.993,218.541,1
+1096,830,Max,Verstappen,Dutch,Bahrain Grand Prix,2024,2024-03-02,1121,3,57,1:31:44.742,26.0,1:32.608,210.383,1
+1097,830,Max,Verstappen,Dutch,Saudi Arabian Grand Prix,2024,2024-03-09,1122,77,50,1:20:43.273,25.0,1:31.773,242.188,3
+1098,830,Max,Verstappen,Dutch,Japanese Grand Prix,2024,2024-04-07,1124,22,53,1:54:23.566,26.0,1:33.706,223.093,1
+1099,830,Max,Verstappen,Dutch,Chinese Grand Prix,2024,2024-04-21,1125,17,56,1:40:52.554,25.0,1:38.406,199.414,2
+1100,830,Max,Verstappen,Dutch,Emilia Romagna Grand Prix,2024,2024-05-19,1127,21,63,1:25:25.252,25.0,1:20.366,219.898,9
+1101,830,Max,Verstappen,Dutch,Canadian Grand Prix,2024,2024-06-09,1129,7,70,1:45:47.927,25.0,1:15.569,207.751,4
+1102,830,Max,Verstappen,Dutch,Spanish Grand Prix,2024,2024-06-23,1130,4,66,1:28:20.227,25.0,1:17.776,215.557,2
+1103,830,Max,Verstappen,Dutch,São Paulo Grand Prix,2024,2024-11-03,1141,18,69,2:06:54.430,26.0,1:20.472,192.767,1
+1104,830,Max,Verstappen,Dutch,Qatar Grand Prix,2024,2024-12-01,1143,78,57,1:31:05.323,25.0,1:22.905,235.310,2
+1105,832,Carlos,Sainz,Spanish,British Grand Prix,2022,2022-07-03,1083,9,52,2:17:50.311,25.0,1:30.813,233.530,2
+1106,832,Carlos,Sainz,Spanish,Singapore Grand Prix,2023,2023-09-17,1113,15,62,1:46:37.418,25.0,1:37.666,182.089,7
+1107,832,Carlos,Sainz,Spanish,Australian Grand Prix,2024,2024-03-24,1123,1,58,1:20:26.843,25.0,1:20.031,237.418,3
+1108,832,Carlos,Sainz,Spanish,Mexico City Grand Prix,2024,2024-10-27,1140,32,71,1:40:55.800,25.0,1:20.137,193.348,7
+1109,839,Esteban,Ocon,French,Hungarian Grand Prix,2021,2021-08-01,1062,11,70,2:04:43.199,25.0,1:21.421,193.704,5
+1110,842,Pierre,Gasly,French,Italian Grand Prix,2020,2020-09-06,1038,14,53,1:47:06.056,25.0,1:24.037,248.162,6
+1111,844,Charles,Leclerc,Monegasque,Belgian Grand Prix,2019,2019-09-01,1022,13,44,1:23:45.710,25.0,1:46.664,236.390,4
+1112,844,Charles,Leclerc,Monegasque,Italian Grand Prix,2019,2019-09-08,1023,14,53,1:15:26.665,25.0,1:23.009,251.235,4
+1113,844,Charles,Leclerc,Monegasque,Bahrain Grand Prix,2022,2022-03-20,1074,3,57,1:37:33.584,26.0,1:34.570,206.018,1
+1114,844,Charles,Leclerc,Monegasque,Australian Grand Prix,2022,2022-04-10,1076,1,58,1:27:46.548,26.0,1:20.260,236.740,1
+1115,844,Charles,Leclerc,Monegasque,Austrian Grand Prix,2022,2022-07-10,1084,70,71,1:24:24.312,25.0,1:07.583,230.010,2
+1116,844,Charles,Leclerc,Monegasque,Monaco Grand Prix,2024,2024-05-26,1128,6,78,2:23:15.554,25.0,\N,\N,0
+1117,844,Charles,Leclerc,Monegasque,Italian Grand Prix,2024,2024-09-01,1136,14,53,1:14:40.727,25.0,1:23.226,250.580,10
+1118,844,Charles,Leclerc,Monegasque,United States Grand Prix,2024,2024-10-20,1139,69,56,1:35:09.639,25.0,1:37.834,202.861,6
+1119,846,Lando,Norris,British,Miami Grand Prix,2024,2024-05-05,1126,79,57,1:30:49.876,25.0,1:30.980,214.148,5
+1120,846,Lando,Norris,British,Dutch Grand Prix,2024,2024-08-25,1135,39,72,1:30:45.519,26.0,1:13.817,207.708,1
+1121,846,Lando,Norris,British,Singapore Grand Prix,2024,2024-09-22,1138,15,62,1:40:52.571,25.0,1:34.925,187.347,2
+1122,846,Lando,Norris,British,Abu Dhabi Grand Prix,2024,2024-12-08,1144,24,58,1:26:33.291,25.0,1:27.438,217.429,3
+1123,847,George,Russell,British,São Paulo Grand Prix,2022,2022-11-13,1095,18,71,1:38:34.044,26.0,1:13.785,210.237,1
+1124,847,George,Russell,British,Austrian Grand Prix,2024,2024-06-30,1131,70,71,1:24:22.798,25.0,1:09.164,224.752,5
+1125,847,George,Russell,British,Las Vegas Grand Prix,2024,2024-11-23,1142,80,50,1:22:05.969,25.0,1:35.717,233.225,4
+1126,857,Oscar,Piastri,Australian,Hungarian Grand Prix,2024,2024-07-21,1133,11,70,1:38:01.989,25.0,1:21.716,193.005,8
+1127,857,Oscar,Piastri,Australian,Azerbaijan Grand Prix,2024,2024-09-15,1137,73,51,1:32:58.007,25.0,1:47.060,201.856,9
